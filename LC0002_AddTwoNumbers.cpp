@@ -101,7 +101,11 @@ private:
                 tst_pass = false;
                 break;
             }
+<<<<<<< HEAD
             if(result->val != expNode->val) {uniqueptr sharedptr
+=======
+            if(result->val != expNode->val) {
+>>>>>>> 20004f1791f32705d7aea711649b1d5c288a4b5e
                 tst_pass = false;
                 break;
             }
@@ -124,4 +128,8 @@ int main(int argc, char** argv) {
     Test tst = Test();
     tst.test1();
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 20004f1791f32705d7aea711649b1d5c288a4b5e

@@ -73,4 +73,8 @@ int main(int argc, char** argv) {
     Test tst = Test();
     tst.test1();
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 20004f1791f32705d7aea711649b1d5c288a4b5e
