@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0021_MergeTwoSortedLists.o: LC0021_MergeTwoSortedLists.cpp.o
+LC0022_GenerateParentheses.o: LC0022_GenerateParentheses.cpp.o
 
-.PHONY : LC0021_MergeTwoSortedLists.o
+.PHONY : LC0022_GenerateParentheses.o
 
 # target to build an object file
-LC0021_MergeTwoSortedLists.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.o
-.PHONY : LC0021_MergeTwoSortedLists.cpp.o
+LC0022_GenerateParentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0022_GenerateParentheses.cpp.o
+.PHONY : LC0022_GenerateParentheses.cpp.o
 
-LC0021_MergeTwoSortedLists.i: LC0021_MergeTwoSortedLists.cpp.i
+LC0022_GenerateParentheses.i: LC0022_GenerateParentheses.cpp.i
 
-.PHONY : LC0021_MergeTwoSortedLists.i
+.PHONY : LC0022_GenerateParentheses.i
 
 # target to preprocess a source file
-LC0021_MergeTwoSortedLists.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.i
-.PHONY : LC0021_MergeTwoSortedLists.cpp.i
+LC0022_GenerateParentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0022_GenerateParentheses.cpp.i
+.PHONY : LC0022_GenerateParentheses.cpp.i
 
-LC0021_MergeTwoSortedLists.s: LC0021_MergeTwoSortedLists.cpp.s
+LC0022_GenerateParentheses.s: LC0022_GenerateParentheses.cpp.s
 
-.PHONY : LC0021_MergeTwoSortedLists.s
+.PHONY : LC0022_GenerateParentheses.s
 
 # target to generate assembly for a file
-LC0021_MergeTwoSortedLists.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.s
-.PHONY : LC0021_MergeTwoSortedLists.cpp.s
+LC0022_GenerateParentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0022_GenerateParentheses.cpp.s
+.PHONY : LC0022_GenerateParentheses.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0021_MergeTwoSortedLists.o"
-	@echo "... LC0021_MergeTwoSortedLists.i"
-	@echo "... LC0021_MergeTwoSortedLists.s"
+	@echo "... LC0022_GenerateParentheses.o"
+	@echo "... LC0022_GenerateParentheses.i"
+	@echo "... LC0022_GenerateParentheses.s"
 .PHONY : help
 
 
