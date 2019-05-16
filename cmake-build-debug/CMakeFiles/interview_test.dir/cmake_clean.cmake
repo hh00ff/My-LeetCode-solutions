@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0020_ValidParentheses.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

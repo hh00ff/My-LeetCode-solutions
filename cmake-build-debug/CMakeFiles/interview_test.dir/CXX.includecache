@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0020_ValidParentheses.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0021_MergeTwoSortedLists.cpp
 iostream
--
-string
--
-stack
--
-vector
 -
 

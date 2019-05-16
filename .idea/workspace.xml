@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="interview_test" targetName="interview_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cc37d5c-2fcc-447c-ae71-37f7b0f80b92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/interview_test" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/interview_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/interview_test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/interview_test.cbp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LC0021_MergeTwoSortedLists.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0020_ValidParentheses.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <folding>
+                <element signature="e#37#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0019_RemoveNthNodeFromEndofList.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="96" selection-start-line="39" selection-end-line="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0016_3SumClosest.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" selection-start-line="41" selection-end-line="78" />
+              <folding>
+                <element signature="e#73#92#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0014_LongestCommonPrefix.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0012_IntegerToRoman.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="66" column="1" selection-start-line="31" selection-end-line="66" selection-end-column="1" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0011_ContainerWithMostWater.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="67" column="1" selection-start-line="32" selection-end-line="67" selection-end-column="1" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0010_RegularExpressionMatching.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="93" column="1" selection-start-line="57" selection-end-line="93" selection-end-column="1" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC0009_PalindromeNumber.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="72" selection-start-line="32" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>INADDR_ANY</find>
+      <find>recvfrom</find>
+      <find>Update</find>
+      <find>myaddr</find>
+      <find>addrlen</find>
+      <find>fd</find>
+      <find>remaddr</find>
+      <find>sockaddr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/duplication_in_array.cpp" />
+        <option value="$PROJECT_DIR$/duplication_in_array.cpp" />
+        <option value="$PROJECT_DIR$/reconstruct_binary_tree.cpp" />
+        <option value="$PROJECT_DIR$/get_next_tree_node.cpp" />
+        <option value="$PROJECT_DIR$/Fibonacci_get_n.cpp" />
+        <option value="$PROJECT_DIR$/quick_sort.cpp" />
+        <option value="$PROJECT_DIR$/robot_moving_count.cpp" />
+        <option value="$PROJECT_DIR$/maxProductAfterCutting_dp.cpp" />
+        <option value="$PROJECT_DIR$/is_numeric.cpp" />
+        <option value="$PROJECT_DIR$/is_numeric_try.cpp" />
+        <option value="$PROJECT_DIR$/FirstNotRepeatingChar.cpp" />
+        <option value="$PROJECT_DIR$/InversePairs.cpp" />
+        <option value="$PROJECT_DIR$/InversePairs_hfq.cpp" />
+        <option value="$PROJECT_DIR$/MaxInSlidingWindow.cpp" />
+        <option value="$PROJECT_DIR$/ReverseSentence.cpp" />
+        <option value="$PROJECT_DIR$/MergeInterval.cpp" />
+        <option value="$PROJECT_DIR$/NQueens.cpp" />
+        <option value="$PROJECT_DIR$/TwoSum_hash.cpp" />
+        <option value="$PROJECT_DIR$/AddTwoNumbers.cpp" />
+        <option value="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters.cpp" />
+        <option value="$PROJECT_DIR$/MedianofTwoSortedArrays.cpp" />
+        <option value="$PROJECT_DIR$/LongestPalindromicSubstring.cpp" />
+        <option value="$PROJECT_DIR$/ZigZagConversion.cpp" />
+        <option value="$PROJECT_DIR$/ReverseInteger.cpp" />
+        <option value="$PROJECT_DIR$/StringtoInteger.cpp" />
+        <option value="$PROJECT_DIR$/PalindromeNumber.cpp" />
+        <option value="$PROJECT_DIR$/RegularExpressionMatching.cpp" />
+        <option value="$PROJECT_DIR$/my_try.cpp" />
+        <option value="$PROJECT_DIR$/LC0010_RegularExpressionMatching.cpp" />
+        <option value="$PROJECT_DIR$/LC0011_ContainerWithMostWater.cpp" />
+        <option value="$PROJECT_DIR$/IntegerToRoman.cpp" />
+        <option value="$PROJECT_DIR$/LC0012_IntegerToRoman.cpp" />
+        <option value="$PROJECT_DIR$/LC0013_RomanToInteger.cpp" />
+        <option value="$PROJECT_DIR$/LC0014_LongestCommonPrefix.cpp" />
+        <option value="$PROJECT_DIR$/LC0015_3Sum.cpp" />
+        <option value="$PROJECT_DIR$/LC0016_3SumClosest.cpp" />
+        <option value="$PROJECT_DIR$/LC0017_LetterCombinationsofaPhoneNumber.cpp" />
+        <option value="$PROJECT_DIR$/LC0018_4Sum.cpp" />
+        <option value="$PROJECT_DIR$/LC0020_ValidParentheses.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LC0019_RemoveNthNodeFromEndofList.cpp" />
+        <option value="$PROJECT_DIR$/LC0021_MergeTwoSortedLists.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="37" />
+    <option name="width" value="1394" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interview_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/libSVM/libsvm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview_test" TARGET_NAME="interview_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview_test" RUN_TARGET_NAME="interview_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interview_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview_test" TARGET_NAME="interview_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview_test" RUN_TARGET_NAME="interview_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.interview_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc37d5c-2fcc-447c-ae71-37f7b0f80b92" name="Default Changelist" comment="" />
+      <created>1550303262330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550303262330</updated>
+      <workItem from="1550303263562" duration="4901000" />
+      <workItem from="1553568624411" duration="11560000" />
+      <workItem from="1553761828827" duration="1808000" />
+      <workItem from="1553763727736" duration="11682000" />
+      <workItem from="1553821929882" duration="823000" />
+      <workItem from="1553822769073" duration="16002000" />
+      <workItem from="1554172517889" duration="4768000" />
+      <workItem from="1554253928820" duration="1252000" />
+      <workItem from="1554340268543" duration="13000" />
+      <workItem from="1554340953396" duration="9000" />
+      <workItem from="1554341227443" duration="79000" />
+      <workItem from="1554341318458" duration="60000" />
+      <workItem from="1554341944941" duration="4000" />
+      <workItem from="1554343181141" duration="3000" />
+      <workItem from="1554343356970" duration="5000" />
+      <workItem from="1554343828837" duration="608000" />
+      <workItem from="1554440229436" duration="2465000" />
+      <workItem from="1554685855939" duration="8044000" />
+      <workItem from="1554771682934" duration="4015000" />
+      <workItem from="1554944068821" duration="974000" />
+      <workItem from="1555031426193" duration="9944000" />
+      <workItem from="1555290755299" duration="4884000" />
+      <workItem from="1555382073739" duration="9213000" />
+      <workItem from="1555464827527" duration="16359000" />
+      <workItem from="1555635867011" duration="9542000" />
+      <workItem from="1555895358243" duration="5055000" />
+      <workItem from="1556155416914" duration="4181000" />
+      <workItem from="1556501532795" duration="3525000" />
+      <workItem from="1556588332473" duration="5598000" />
+      <workItem from="1557105171121" duration="4461000" />
+      <workItem from="1557191846449" duration="11978000" />
+      <workItem from="1557277617981" duration="3528000" />
+      <workItem from="1557363708909" duration="8654000" />
+      <workItem from="1557449459518" duration="8291000" />
+      <workItem from="1557537952647" duration="11366000" />
+      <workItem from="1557796166922" duration="1095000" />
+      <workItem from="1557797273816" duration="3712000" />
+      <workItem from="1557882190391" duration="4027000" />
+      <workItem from="1557968448604" duration="2331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196819000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24820343" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.498618" visible="true" weight="0.2895005" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39877924" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4991708" weight="0.3282365" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.501382" side_tool="true" weight="0.2889115" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3294979" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30403537" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4997236" visible="true" weight="0.32858595" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39877924" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4997236" weight="0.32858595" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002764" side_tool="true" weight="0.32858595" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3294979" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/reconstruct_binary_tree.cpp" />
+    <entry file="file://$PROJECT_DIR$/get_next_tree_node.cpp" />
+    <entry file="file://$PROJECT_DIR$/Fibonacci_get_n.cpp" />
+    <entry file="file://$PROJECT_DIR$/maxProductAfterCutting_dp.cpp" />
+    <entry file="file://$PROJECT_DIR$/robot_moving_count.cpp" />
+    <entry file="file://$PROJECT_DIR$/get_combination.cpp" />
+    <entry file="file://$PROJECT_DIR$/FirstNotRepeatingChar.cpp" />
+    <entry file="file://$PROJECT_DIR$/is_numeric_try.cpp" />
+    <entry file="file://$PROJECT_DIR$/quick_sort.cpp" />
+    <entry file="file://$PROJECT_DIR$/is_numeric.cpp" />
+    <entry file="file:///usr/include/c++/5/bits/stl_stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duplication_in_array.cpp" />
+    <entry file="file://$PROJECT_DIR$/ReverseSentence.cpp" />
+    <entry file="file://$PROJECT_DIR$/MergeInterval.cpp" />
+    <entry file="file://$PROJECT_DIR$/TwoSum_hash.cpp" />
+    <entry file="file://$PROJECT_DIR$/InversePairs_hfq.cpp" />
+    <entry file="file://$PROJECT_DIR$/MaxInSlidingWindow.cpp" />
+    <entry file="file://$PROJECT_DIR$/InversePairs.cpp" />
+    <entry file="file://$PROJECT_DIR$/NQueens.cpp" />
+    <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/getecudata.cpp" />
+    <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/ecu/AnalysisECU.cpp" />
+    <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/ecu/AnalysisECU.h" />
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="779" selection-start-line="779" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReverseInteger.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZigZagConversion.cpp" />
+    <entry file="file://$PROJECT_DIR$/LongestPalindromicSubstring.cpp" />
+    <entry file="file://$PROJECT_DIR$/MedianofTwoSortedArrays.cpp" />
+    <entry file="file://$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters.cpp" />
+    <entry file="file://$PROJECT_DIR$/AddTwoNumbers.cpp" />
+    <entry file="file://$PROJECT_DIR$/StringtoInteger.cpp" />
+    <entry file="file://$PROJECT_DIR$/PalindromeNumber.cpp" />
+    <entry file="file://$PROJECT_DIR$/RegularExpressionMatching.cpp" />
+    <entry file="file:///usr/include/c++/5/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="753" selection-start-line="753" selection-end-line="753" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntegerToRoman.cpp" />
+    <entry file="file://$PROJECT_DIR$/LC0013_RomanToInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="1" selection-start-line="55" selection-end-line="90" selection-end-column="1" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0015_3Sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-end-line="83" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0001_TwoSum_hash.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" selection-start-line="29" selection-end-line="66" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0017_LetterCombinationsofaPhoneNumber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0018_4Sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_try.cpp" />
+    <entry file="file://$PROJECT_DIR$/ValidParentheses.cpp" />
+    <entry file="file://$PROJECT_DIR$/LC0016_3SumClosest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" selection-start-line="41" selection-end-line="78" />
+          <folding>
+            <element signature="e#73#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0014_LongestCommonPrefix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0012_IntegerToRoman.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="1" selection-start-line="31" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0011_ContainerWithMostWater.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="1" selection-start-line="32" selection-end-line="67" selection-end-column="1" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0010_RegularExpressionMatching.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="1" selection-start-line="57" selection-end-line="93" selection-end-column="1" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0009_PalindromeNumber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" selection-start-line="32" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0020_ValidParentheses.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0019_RemoveNthNodeFromEndofList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="96" selection-start-line="39" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0021_MergeTwoSortedLists.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

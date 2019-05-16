@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0020_ValidParentheses.o: LC0020_ValidParentheses.cpp.o
+LC0021_MergeTwoSortedLists.o: LC0021_MergeTwoSortedLists.cpp.o
 
-.PHONY : LC0020_ValidParentheses.o
+.PHONY : LC0021_MergeTwoSortedLists.o
 
 # target to build an object file
-LC0020_ValidParentheses.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0020_ValidParentheses.cpp.o
-.PHONY : LC0020_ValidParentheses.cpp.o
+LC0021_MergeTwoSortedLists.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.o
+.PHONY : LC0021_MergeTwoSortedLists.cpp.o
 
-LC0020_ValidParentheses.i: LC0020_ValidParentheses.cpp.i
+LC0021_MergeTwoSortedLists.i: LC0021_MergeTwoSortedLists.cpp.i
 
-.PHONY : LC0020_ValidParentheses.i
+.PHONY : LC0021_MergeTwoSortedLists.i
 
 # target to preprocess a source file
-LC0020_ValidParentheses.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0020_ValidParentheses.cpp.i
-.PHONY : LC0020_ValidParentheses.cpp.i
+LC0021_MergeTwoSortedLists.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.i
+.PHONY : LC0021_MergeTwoSortedLists.cpp.i
 
-LC0020_ValidParentheses.s: LC0020_ValidParentheses.cpp.s
+LC0021_MergeTwoSortedLists.s: LC0021_MergeTwoSortedLists.cpp.s
 
-.PHONY : LC0020_ValidParentheses.s
+.PHONY : LC0021_MergeTwoSortedLists.s
 
 # target to generate assembly for a file
-LC0020_ValidParentheses.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0020_ValidParentheses.cpp.s
-.PHONY : LC0020_ValidParentheses.cpp.s
+LC0021_MergeTwoSortedLists.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0021_MergeTwoSortedLists.cpp.s
+.PHONY : LC0021_MergeTwoSortedLists.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0020_ValidParentheses.o"
-	@echo "... LC0020_ValidParentheses.i"
-	@echo "... LC0020_ValidParentheses.s"
+	@echo "... LC0021_MergeTwoSortedLists.o"
+	@echo "... LC0021_MergeTwoSortedLists.i"
+	@echo "... LC0021_MergeTwoSortedLists.s"
 .PHONY : help
 
 
