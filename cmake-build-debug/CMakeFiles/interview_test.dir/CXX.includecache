@@ -6,10 +6,8 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0022_GenerateParentheses.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0023_MergekSortedLists.cpp
 iostream
--
-string
 -
 vector
 -

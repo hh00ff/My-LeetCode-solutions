@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0022_GenerateParentheses.o: LC0022_GenerateParentheses.cpp.o
+LC0023_MergekSortedLists.o: LC0023_MergekSortedLists.cpp.o
 
-.PHONY : LC0022_GenerateParentheses.o
+.PHONY : LC0023_MergekSortedLists.o
 
 # target to build an object file
-LC0022_GenerateParentheses.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0022_GenerateParentheses.cpp.o
-.PHONY : LC0022_GenerateParentheses.cpp.o
+LC0023_MergekSortedLists.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0023_MergekSortedLists.cpp.o
+.PHONY : LC0023_MergekSortedLists.cpp.o
 
-LC0022_GenerateParentheses.i: LC0022_GenerateParentheses.cpp.i
+LC0023_MergekSortedLists.i: LC0023_MergekSortedLists.cpp.i
 
-.PHONY : LC0022_GenerateParentheses.i
+.PHONY : LC0023_MergekSortedLists.i
 
 # target to preprocess a source file
-LC0022_GenerateParentheses.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0022_GenerateParentheses.cpp.i
-.PHONY : LC0022_GenerateParentheses.cpp.i
+LC0023_MergekSortedLists.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0023_MergekSortedLists.cpp.i
+.PHONY : LC0023_MergekSortedLists.cpp.i
 
-LC0022_GenerateParentheses.s: LC0022_GenerateParentheses.cpp.s
+LC0023_MergekSortedLists.s: LC0023_MergekSortedLists.cpp.s
 
-.PHONY : LC0022_GenerateParentheses.s
+.PHONY : LC0023_MergekSortedLists.s
 
 # target to generate assembly for a file
-LC0022_GenerateParentheses.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0022_GenerateParentheses.cpp.s
-.PHONY : LC0022_GenerateParentheses.cpp.s
+LC0023_MergekSortedLists.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0023_MergekSortedLists.cpp.s
+.PHONY : LC0023_MergekSortedLists.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0022_GenerateParentheses.o"
-	@echo "... LC0022_GenerateParentheses.i"
-	@echo "... LC0022_GenerateParentheses.s"
+	@echo "... LC0023_MergekSortedLists.o"
+	@echo "... LC0023_MergekSortedLists.i"
+	@echo "... LC0023_MergekSortedLists.s"
 .PHONY : help
 
 
