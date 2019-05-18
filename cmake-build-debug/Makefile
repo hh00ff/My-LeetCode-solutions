@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0023_MergekSortedLists.o: LC0023_MergekSortedLists.cpp.o
+LC0024_SwapNodesinPairs.o: LC0024_SwapNodesinPairs.cpp.o
 
-.PHONY : LC0023_MergekSortedLists.o
+.PHONY : LC0024_SwapNodesinPairs.o
 
 # target to build an object file
-LC0023_MergekSortedLists.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0023_MergekSortedLists.cpp.o
-.PHONY : LC0023_MergekSortedLists.cpp.o
+LC0024_SwapNodesinPairs.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0024_SwapNodesinPairs.cpp.o
+.PHONY : LC0024_SwapNodesinPairs.cpp.o
 
-LC0023_MergekSortedLists.i: LC0023_MergekSortedLists.cpp.i
+LC0024_SwapNodesinPairs.i: LC0024_SwapNodesinPairs.cpp.i
 
-.PHONY : LC0023_MergekSortedLists.i
+.PHONY : LC0024_SwapNodesinPairs.i
 
 # target to preprocess a source file
-LC0023_MergekSortedLists.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0023_MergekSortedLists.cpp.i
-.PHONY : LC0023_MergekSortedLists.cpp.i
+LC0024_SwapNodesinPairs.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0024_SwapNodesinPairs.cpp.i
+.PHONY : LC0024_SwapNodesinPairs.cpp.i
 
-LC0023_MergekSortedLists.s: LC0023_MergekSortedLists.cpp.s
+LC0024_SwapNodesinPairs.s: LC0024_SwapNodesinPairs.cpp.s
 
-.PHONY : LC0023_MergekSortedLists.s
+.PHONY : LC0024_SwapNodesinPairs.s
 
 # target to generate assembly for a file
-LC0023_MergekSortedLists.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0023_MergekSortedLists.cpp.s
-.PHONY : LC0023_MergekSortedLists.cpp.s
+LC0024_SwapNodesinPairs.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0024_SwapNodesinPairs.cpp.s
+.PHONY : LC0024_SwapNodesinPairs.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0023_MergekSortedLists.o"
-	@echo "... LC0023_MergekSortedLists.i"
-	@echo "... LC0023_MergekSortedLists.s"
+	@echo "... LC0024_SwapNodesinPairs.o"
+	@echo "... LC0024_SwapNodesinPairs.i"
+	@echo "... LC0024_SwapNodesinPairs.s"
 .PHONY : help
 
 

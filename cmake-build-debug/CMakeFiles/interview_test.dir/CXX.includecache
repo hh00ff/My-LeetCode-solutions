@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0023_MergekSortedLists.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0024_SwapNodesinPairs.cpp
 iostream
--
-vector
 -
 
