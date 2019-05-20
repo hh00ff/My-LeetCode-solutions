@@ -92,7 +92,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0024_SwapNodesinPairs.cpp">
+		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0025_ReverseNodesinKGroup.cpp">
 			<Option target="interview_test"/>
 		</Unit>
 		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/CMakeLists.txt">

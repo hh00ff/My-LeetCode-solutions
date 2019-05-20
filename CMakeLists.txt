@@ -4,4 +4,4 @@ project(interview_test)
 set(CMAKE_CXX_STANDARD 11)
 
 # add_executable(interview_test my_try.cpp)
-add_executable(interview_test LC0024_SwapNodesinPairs.cpp)
+add_executable(interview_test LC0025_ReverseNodesinKGroup.cpp)
