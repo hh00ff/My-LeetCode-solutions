@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0025_ReverseNodesinKGroup.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

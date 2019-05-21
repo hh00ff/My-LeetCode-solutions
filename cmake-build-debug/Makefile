@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0025_ReverseNodesinKGroup.o: LC0025_ReverseNodesinKGroup.cpp.o
+LC0026_RemoveDuplicatesfromSortedArray.o: LC0026_RemoveDuplicatesfromSortedArray.cpp.o
 
-.PHONY : LC0025_ReverseNodesinKGroup.o
+.PHONY : LC0026_RemoveDuplicatesfromSortedArray.o
 
 # target to build an object file
-LC0025_ReverseNodesinKGroup.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0025_ReverseNodesinKGroup.cpp.o
-.PHONY : LC0025_ReverseNodesinKGroup.cpp.o
+LC0026_RemoveDuplicatesfromSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.o
+.PHONY : LC0026_RemoveDuplicatesfromSortedArray.cpp.o
 
-LC0025_ReverseNodesinKGroup.i: LC0025_ReverseNodesinKGroup.cpp.i
+LC0026_RemoveDuplicatesfromSortedArray.i: LC0026_RemoveDuplicatesfromSortedArray.cpp.i
 
-.PHONY : LC0025_ReverseNodesinKGroup.i
+.PHONY : LC0026_RemoveDuplicatesfromSortedArray.i
 
 # target to preprocess a source file
-LC0025_ReverseNodesinKGroup.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0025_ReverseNodesinKGroup.cpp.i
-.PHONY : LC0025_ReverseNodesinKGroup.cpp.i
+LC0026_RemoveDuplicatesfromSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.i
+.PHONY : LC0026_RemoveDuplicatesfromSortedArray.cpp.i
 
-LC0025_ReverseNodesinKGroup.s: LC0025_ReverseNodesinKGroup.cpp.s
+LC0026_RemoveDuplicatesfromSortedArray.s: LC0026_RemoveDuplicatesfromSortedArray.cpp.s
 
-.PHONY : LC0025_ReverseNodesinKGroup.s
+.PHONY : LC0026_RemoveDuplicatesfromSortedArray.s
 
 # target to generate assembly for a file
-LC0025_ReverseNodesinKGroup.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0025_ReverseNodesinKGroup.cpp.s
-.PHONY : LC0025_ReverseNodesinKGroup.cpp.s
+LC0026_RemoveDuplicatesfromSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.s
+.PHONY : LC0026_RemoveDuplicatesfromSortedArray.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0025_ReverseNodesinKGroup.o"
-	@echo "... LC0025_ReverseNodesinKGroup.i"
-	@echo "... LC0025_ReverseNodesinKGroup.s"
+	@echo "... LC0026_RemoveDuplicatesfromSortedArray.o"
+	@echo "... LC0026_RemoveDuplicatesfromSortedArray.i"
+	@echo "... LC0026_RemoveDuplicatesfromSortedArray.s"
 .PHONY : help
 
 
