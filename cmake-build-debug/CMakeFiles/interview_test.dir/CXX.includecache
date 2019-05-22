@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0026_RemoveDuplicatesfromSortedArray.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0027_RemoveElement.cpp
 iostream
 -
 vector

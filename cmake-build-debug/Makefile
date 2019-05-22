@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0026_RemoveDuplicatesfromSortedArray.o: LC0026_RemoveDuplicatesfromSortedArray.cpp.o
+LC0027_RemoveElement.o: LC0027_RemoveElement.cpp.o
 
-.PHONY : LC0026_RemoveDuplicatesfromSortedArray.o
+.PHONY : LC0027_RemoveElement.o
 
 # target to build an object file
-LC0026_RemoveDuplicatesfromSortedArray.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.o
-.PHONY : LC0026_RemoveDuplicatesfromSortedArray.cpp.o
+LC0027_RemoveElement.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.o
+.PHONY : LC0027_RemoveElement.cpp.o
 
-LC0026_RemoveDuplicatesfromSortedArray.i: LC0026_RemoveDuplicatesfromSortedArray.cpp.i
+LC0027_RemoveElement.i: LC0027_RemoveElement.cpp.i
 
-.PHONY : LC0026_RemoveDuplicatesfromSortedArray.i
+.PHONY : LC0027_RemoveElement.i
 
 # target to preprocess a source file
-LC0026_RemoveDuplicatesfromSortedArray.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.i
-.PHONY : LC0026_RemoveDuplicatesfromSortedArray.cpp.i
+LC0027_RemoveElement.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.i
+.PHONY : LC0027_RemoveElement.cpp.i
 
-LC0026_RemoveDuplicatesfromSortedArray.s: LC0026_RemoveDuplicatesfromSortedArray.cpp.s
+LC0027_RemoveElement.s: LC0027_RemoveElement.cpp.s
 
-.PHONY : LC0026_RemoveDuplicatesfromSortedArray.s
+.PHONY : LC0027_RemoveElement.s
 
 # target to generate assembly for a file
-LC0026_RemoveDuplicatesfromSortedArray.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.s
-.PHONY : LC0026_RemoveDuplicatesfromSortedArray.cpp.s
+LC0027_RemoveElement.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.s
+.PHONY : LC0027_RemoveElement.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0026_RemoveDuplicatesfromSortedArray.o"
-	@echo "... LC0026_RemoveDuplicatesfromSortedArray.i"
-	@echo "... LC0026_RemoveDuplicatesfromSortedArray.s"
+	@echo "... LC0027_RemoveElement.o"
+	@echo "... LC0027_RemoveElement.i"
+	@echo "... LC0027_RemoveElement.s"
 .PHONY : help
 
 

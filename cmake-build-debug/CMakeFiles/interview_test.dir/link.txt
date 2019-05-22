@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0026_RemoveDuplicatesfromSortedArray.cpp.o  -o interview_test 
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.o  -o interview_test 
