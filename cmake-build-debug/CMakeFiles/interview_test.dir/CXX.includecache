@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0027_RemoveElement.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0028_ImplementstrStr.cpp
 iostream
 -
-vector
+string
 -
 

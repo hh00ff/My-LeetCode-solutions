@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0027_RemoveElement.o: LC0027_RemoveElement.cpp.o
+LC0028_ImplementstrStr.o: LC0028_ImplementstrStr.cpp.o
 
-.PHONY : LC0027_RemoveElement.o
+.PHONY : LC0028_ImplementstrStr.o
 
 # target to build an object file
-LC0027_RemoveElement.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.o
-.PHONY : LC0027_RemoveElement.cpp.o
+LC0028_ImplementstrStr.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.o
+.PHONY : LC0028_ImplementstrStr.cpp.o
 
-LC0027_RemoveElement.i: LC0027_RemoveElement.cpp.i
+LC0028_ImplementstrStr.i: LC0028_ImplementstrStr.cpp.i
 
-.PHONY : LC0027_RemoveElement.i
+.PHONY : LC0028_ImplementstrStr.i
 
 # target to preprocess a source file
-LC0027_RemoveElement.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.i
-.PHONY : LC0027_RemoveElement.cpp.i
+LC0028_ImplementstrStr.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.i
+.PHONY : LC0028_ImplementstrStr.cpp.i
 
-LC0027_RemoveElement.s: LC0027_RemoveElement.cpp.s
+LC0028_ImplementstrStr.s: LC0028_ImplementstrStr.cpp.s
 
-.PHONY : LC0027_RemoveElement.s
+.PHONY : LC0028_ImplementstrStr.s
 
 # target to generate assembly for a file
-LC0027_RemoveElement.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.s
-.PHONY : LC0027_RemoveElement.cpp.s
+LC0028_ImplementstrStr.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.s
+.PHONY : LC0028_ImplementstrStr.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0027_RemoveElement.o"
-	@echo "... LC0027_RemoveElement.i"
-	@echo "... LC0027_RemoveElement.s"
+	@echo "... LC0028_ImplementstrStr.o"
+	@echo "... LC0028_ImplementstrStr.i"
+	@echo "... LC0028_ImplementstrStr.s"
 .PHONY : help
 
 

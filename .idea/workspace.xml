@@ -37,29 +37,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LC0027_RemoveElement.cpp">
+        <entry file="file://$PROJECT_DIR$/LC0028_ImplementstrStr.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+            <state relative-caret-position="495">
+              <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
               <folding>
-                <element signature="e#37#56#0" expanded="true" />
+                <element signature="e#36#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC0026_RemoveDuplicatesfromSortedArray.cpp">
+        <entry file="file://$PROJECT_DIR$/LC0027_RemoveElement.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="69" lean-forward="true" selection-start-line="24" selection-end-line="69" />
+            <state relative-caret-position="300">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#37#56#0" expanded="true" />
               </folding>
@@ -70,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC0020_ValidParentheses.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1365">
+            <state relative-caret-position="807">
               <caret line="91" selection-start-line="55" selection-end-line="91" />
               <folding>
                 <element signature="e#37#56#0" expanded="true" />
@@ -212,8 +212,9 @@
         <option value="$PROJECT_DIR$/LC0024_SwapNodesinPairs.cpp" />
         <option value="$PROJECT_DIR$/LC0025_ReverseNodesinKGroup.cpp" />
         <option value="$PROJECT_DIR$/LC0026_RemoveDuplicatesfromSortedArray.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LC0027_RemoveElement.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LC0028_ImplementstrStr.cpp" />
       </list>
     </option>
   </component>
@@ -332,23 +333,24 @@
       <workItem from="1558144198991" duration="3337000" />
       <workItem from="1558315486617" duration="3538000" />
       <workItem from="1558401061104" duration="2266000" />
-      <workItem from="1558486638714" duration="1313000" />
+      <workItem from="1558486638714" duration="1483000" />
+      <workItem from="1558575496691" duration="1546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213682000" />
+    <option name="totallyTimeSpent" value="215398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2620232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26533997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.498618" visible="true" weight="0.2895005" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498618" weight="0.2895005" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39877924" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,7 +393,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstNotRepeatingChar.cpp" />
     <entry file="file://$PROJECT_DIR$/is_numeric_try.cpp" />
     <entry file="file://$PROJECT_DIR$/quick_sort.cpp" />
     <entry file="file://$PROJECT_DIR$/is_numeric.cpp" />
@@ -540,10 +541,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC0020_ValidParentheses.cpp">
+    <entry file="file://$PROJECT_DIR$/LC0026_RemoveDuplicatesfromSortedArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" selection-start-line="55" selection-end-line="91" />
+        <state relative-caret-position="1035">
+          <caret line="69" selection-start-line="24" selection-end-line="69" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
           </folding>
@@ -606,27 +607,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="4" />
+        <state relative-caret-position="90">
+          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC0026_RemoveDuplicatesfromSortedArray.cpp">
+    <entry file="file://$PROJECT_DIR$/LC0027_RemoveElement.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="69" lean-forward="true" selection-start-line="24" selection-end-line="69" />
+        <state relative-caret-position="300">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC0027_RemoveElement.cpp">
+    <entry file="file://$PROJECT_DIR$/LC0020_ValidParentheses.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        <state relative-caret-position="807">
+          <caret line="91" selection-start-line="55" selection-end-line="91" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0028_ImplementstrStr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
           </folding>
         </state>
       </provider>

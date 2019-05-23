@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0027_RemoveElement.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
