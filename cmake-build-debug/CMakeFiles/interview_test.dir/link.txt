@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.o  -o interview_test 
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.o  -o interview_test 

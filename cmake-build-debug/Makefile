@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0028_ImplementstrStr.o: LC0028_ImplementstrStr.cpp.o
+LC0029_DivideTwoIntegers.o: LC0029_DivideTwoIntegers.cpp.o
 
-.PHONY : LC0028_ImplementstrStr.o
+.PHONY : LC0029_DivideTwoIntegers.o
 
 # target to build an object file
-LC0028_ImplementstrStr.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.o
-.PHONY : LC0028_ImplementstrStr.cpp.o
+LC0029_DivideTwoIntegers.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.o
+.PHONY : LC0029_DivideTwoIntegers.cpp.o
 
-LC0028_ImplementstrStr.i: LC0028_ImplementstrStr.cpp.i
+LC0029_DivideTwoIntegers.i: LC0029_DivideTwoIntegers.cpp.i
 
-.PHONY : LC0028_ImplementstrStr.i
+.PHONY : LC0029_DivideTwoIntegers.i
 
 # target to preprocess a source file
-LC0028_ImplementstrStr.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.i
-.PHONY : LC0028_ImplementstrStr.cpp.i
+LC0029_DivideTwoIntegers.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.i
+.PHONY : LC0029_DivideTwoIntegers.cpp.i
 
-LC0028_ImplementstrStr.s: LC0028_ImplementstrStr.cpp.s
+LC0029_DivideTwoIntegers.s: LC0029_DivideTwoIntegers.cpp.s
 
-.PHONY : LC0028_ImplementstrStr.s
+.PHONY : LC0029_DivideTwoIntegers.s
 
 # target to generate assembly for a file
-LC0028_ImplementstrStr.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.s
-.PHONY : LC0028_ImplementstrStr.cpp.s
+LC0029_DivideTwoIntegers.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.s
+.PHONY : LC0029_DivideTwoIntegers.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0028_ImplementstrStr.o"
-	@echo "... LC0028_ImplementstrStr.i"
-	@echo "... LC0028_ImplementstrStr.s"
+	@echo "... LC0029_DivideTwoIntegers.o"
+	@echo "... LC0029_DivideTwoIntegers.i"
+	@echo "... LC0029_DivideTwoIntegers.s"
 .PHONY : help
 
 

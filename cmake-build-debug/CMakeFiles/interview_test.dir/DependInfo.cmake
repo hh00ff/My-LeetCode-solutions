@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hfq/CLionProjects/algorithm_code/interview_test/LC0028_ImplementstrStr.cpp" "/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/interview_test.dir/LC0028_ImplementstrStr.cpp.o"
+  "/home/hfq/CLionProjects/algorithm_code/interview_test/LC0029_DivideTwoIntegers.cpp" "/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
