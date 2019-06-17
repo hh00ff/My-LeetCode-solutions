@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0029_DivideTwoIntegers.o: LC0029_DivideTwoIntegers.cpp.o
+LC0030_SubstringwithConcatenationofAllWords.o: LC0030_SubstringwithConcatenationofAllWords.cpp.o
 
-.PHONY : LC0029_DivideTwoIntegers.o
+.PHONY : LC0030_SubstringwithConcatenationofAllWords.o
 
 # target to build an object file
-LC0029_DivideTwoIntegers.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.o
-.PHONY : LC0029_DivideTwoIntegers.cpp.o
+LC0030_SubstringwithConcatenationofAllWords.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0030_SubstringwithConcatenationofAllWords.cpp.o
+.PHONY : LC0030_SubstringwithConcatenationofAllWords.cpp.o
 
-LC0029_DivideTwoIntegers.i: LC0029_DivideTwoIntegers.cpp.i
+LC0030_SubstringwithConcatenationofAllWords.i: LC0030_SubstringwithConcatenationofAllWords.cpp.i
 
-.PHONY : LC0029_DivideTwoIntegers.i
+.PHONY : LC0030_SubstringwithConcatenationofAllWords.i
 
 # target to preprocess a source file
-LC0029_DivideTwoIntegers.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.i
-.PHONY : LC0029_DivideTwoIntegers.cpp.i
+LC0030_SubstringwithConcatenationofAllWords.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0030_SubstringwithConcatenationofAllWords.cpp.i
+.PHONY : LC0030_SubstringwithConcatenationofAllWords.cpp.i
 
-LC0029_DivideTwoIntegers.s: LC0029_DivideTwoIntegers.cpp.s
+LC0030_SubstringwithConcatenationofAllWords.s: LC0030_SubstringwithConcatenationofAllWords.cpp.s
 
-.PHONY : LC0029_DivideTwoIntegers.s
+.PHONY : LC0030_SubstringwithConcatenationofAllWords.s
 
 # target to generate assembly for a file
-LC0029_DivideTwoIntegers.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0029_DivideTwoIntegers.cpp.s
-.PHONY : LC0029_DivideTwoIntegers.cpp.s
+LC0030_SubstringwithConcatenationofAllWords.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0030_SubstringwithConcatenationofAllWords.cpp.s
+.PHONY : LC0030_SubstringwithConcatenationofAllWords.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0029_DivideTwoIntegers.o"
-	@echo "... LC0029_DivideTwoIntegers.i"
-	@echo "... LC0029_DivideTwoIntegers.s"
+	@echo "... LC0030_SubstringwithConcatenationofAllWords.o"
+	@echo "... LC0030_SubstringwithConcatenationofAllWords.i"
+	@echo "... LC0030_SubstringwithConcatenationofAllWords.s"
 .PHONY : help
 
 
