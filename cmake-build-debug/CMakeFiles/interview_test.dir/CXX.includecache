@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0030_SubstringwithConcatenationofAllWords.cpp
+/home/hfq/clion_ws/My-LeetCode-solutions/LC0031_NextPermutation.cpp
 iostream
 -
-string
--
 vector
--
-unordered_map
 -
 

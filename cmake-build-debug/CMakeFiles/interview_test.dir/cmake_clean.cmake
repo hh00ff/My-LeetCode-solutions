@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0030_SubstringwithConcatenationofAllWords.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0031_NextPermutation.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

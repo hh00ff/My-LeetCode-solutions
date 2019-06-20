@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0030_SubstringwithConcatenationofAllWords.cpp.o  -o interview_test 
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0031_NextPermutation.cpp.o  -o interview_test 
