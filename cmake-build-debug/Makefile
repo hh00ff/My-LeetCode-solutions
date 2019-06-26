@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0031_NextPermutation.o: LC0031_NextPermutation.cpp.o
+LC0032_LongestValidParentheses.o: LC0032_LongestValidParentheses.cpp.o
 
-.PHONY : LC0031_NextPermutation.o
+.PHONY : LC0032_LongestValidParentheses.o
 
 # target to build an object file
-LC0031_NextPermutation.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0031_NextPermutation.cpp.o
-.PHONY : LC0031_NextPermutation.cpp.o
+LC0032_LongestValidParentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0032_LongestValidParentheses.cpp.o
+.PHONY : LC0032_LongestValidParentheses.cpp.o
 
-LC0031_NextPermutation.i: LC0031_NextPermutation.cpp.i
+LC0032_LongestValidParentheses.i: LC0032_LongestValidParentheses.cpp.i
 
-.PHONY : LC0031_NextPermutation.i
+.PHONY : LC0032_LongestValidParentheses.i
 
 # target to preprocess a source file
-LC0031_NextPermutation.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0031_NextPermutation.cpp.i
-.PHONY : LC0031_NextPermutation.cpp.i
+LC0032_LongestValidParentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0032_LongestValidParentheses.cpp.i
+.PHONY : LC0032_LongestValidParentheses.cpp.i
 
-LC0031_NextPermutation.s: LC0031_NextPermutation.cpp.s
+LC0032_LongestValidParentheses.s: LC0032_LongestValidParentheses.cpp.s
 
-.PHONY : LC0031_NextPermutation.s
+.PHONY : LC0032_LongestValidParentheses.s
 
 # target to generate assembly for a file
-LC0031_NextPermutation.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0031_NextPermutation.cpp.s
-.PHONY : LC0031_NextPermutation.cpp.s
+LC0032_LongestValidParentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0032_LongestValidParentheses.cpp.s
+.PHONY : LC0032_LongestValidParentheses.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... interview_test"
-	@echo "... LC0031_NextPermutation.o"
-	@echo "... LC0031_NextPermutation.i"
-	@echo "... LC0031_NextPermutation.s"
+	@echo "... LC0032_LongestValidParentheses.o"
+	@echo "... LC0032_LongestValidParentheses.i"
+	@echo "... LC0032_LongestValidParentheses.s"
 .PHONY : help
 
 

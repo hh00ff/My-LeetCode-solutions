@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/My-LeetCode-solutions/LC0031_NextPermutation.cpp
+/home/hfq/clion_ws/My-LeetCode-solutions/LC0032_LongestValidParentheses.cpp
 iostream
 -
-vector
+string
 -
 
