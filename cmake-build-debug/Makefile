@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0032_LongestValidParentheses.o: LC0032_LongestValidParentheses.cpp.o
+LC0033_SearchinRotatedSortedArray.o: LC0033_SearchinRotatedSortedArray.cpp.o
 
-.PHONY : LC0032_LongestValidParentheses.o
+.PHONY : LC0033_SearchinRotatedSortedArray.o
 
 # target to build an object file
-LC0032_LongestValidParentheses.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0032_LongestValidParentheses.cpp.o
-.PHONY : LC0032_LongestValidParentheses.cpp.o
+LC0033_SearchinRotatedSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0033_SearchinRotatedSortedArray.cpp.o
+.PHONY : LC0033_SearchinRotatedSortedArray.cpp.o
 
-LC0032_LongestValidParentheses.i: LC0032_LongestValidParentheses.cpp.i
+LC0033_SearchinRotatedSortedArray.i: LC0033_SearchinRotatedSortedArray.cpp.i
 
-.PHONY : LC0032_LongestValidParentheses.i
+.PHONY : LC0033_SearchinRotatedSortedArray.i
 
 # target to preprocess a source file
-LC0032_LongestValidParentheses.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0032_LongestValidParentheses.cpp.i
-.PHONY : LC0032_LongestValidParentheses.cpp.i
+LC0033_SearchinRotatedSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0033_SearchinRotatedSortedArray.cpp.i
+.PHONY : LC0033_SearchinRotatedSortedArray.cpp.i
 
-LC0032_LongestValidParentheses.s: LC0032_LongestValidParentheses.cpp.s
+LC0033_SearchinRotatedSortedArray.s: LC0033_SearchinRotatedSortedArray.cpp.s
 
-.PHONY : LC0032_LongestValidParentheses.s
+.PHONY : LC0033_SearchinRotatedSortedArray.s
 
 # target to generate assembly for a file
-LC0032_LongestValidParentheses.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0032_LongestValidParentheses.cpp.s
-.PHONY : LC0032_LongestValidParentheses.cpp.s
+LC0033_SearchinRotatedSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0033_SearchinRotatedSortedArray.cpp.s
+.PHONY : LC0033_SearchinRotatedSortedArray.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... interview_test"
-	@echo "... LC0032_LongestValidParentheses.o"
-	@echo "... LC0032_LongestValidParentheses.i"
-	@echo "... LC0032_LongestValidParentheses.s"
+	@echo "... LC0033_SearchinRotatedSortedArray.o"
+	@echo "... LC0033_SearchinRotatedSortedArray.i"
+	@echo "... LC0033_SearchinRotatedSortedArray.s"
 .PHONY : help
 
 

@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/My-LeetCode-solutions/LC0032_LongestValidParentheses.cpp
+/home/hfq/clion_ws/My-LeetCode-solutions/LC0033_SearchinRotatedSortedArray.cpp
 iostream
 -
-string
+vector
 -
 
