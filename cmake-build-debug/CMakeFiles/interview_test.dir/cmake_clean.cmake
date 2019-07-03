@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0034_SearchforaRange.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0035_SearchInsertPosition.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

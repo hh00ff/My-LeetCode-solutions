@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0034_SearchforaRange.cpp.o  -o interview_test 
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0035_SearchInsertPosition.cpp.o  -o interview_test 

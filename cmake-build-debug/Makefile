@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0034_SearchforaRange.o: LC0034_SearchforaRange.cpp.o
+LC0035_SearchInsertPosition.o: LC0035_SearchInsertPosition.cpp.o
 
-.PHONY : LC0034_SearchforaRange.o
+.PHONY : LC0035_SearchInsertPosition.o
 
 # target to build an object file
-LC0034_SearchforaRange.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0034_SearchforaRange.cpp.o
-.PHONY : LC0034_SearchforaRange.cpp.o
+LC0035_SearchInsertPosition.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0035_SearchInsertPosition.cpp.o
+.PHONY : LC0035_SearchInsertPosition.cpp.o
 
-LC0034_SearchforaRange.i: LC0034_SearchforaRange.cpp.i
+LC0035_SearchInsertPosition.i: LC0035_SearchInsertPosition.cpp.i
 
-.PHONY : LC0034_SearchforaRange.i
+.PHONY : LC0035_SearchInsertPosition.i
 
 # target to preprocess a source file
-LC0034_SearchforaRange.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0034_SearchforaRange.cpp.i
-.PHONY : LC0034_SearchforaRange.cpp.i
+LC0035_SearchInsertPosition.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0035_SearchInsertPosition.cpp.i
+.PHONY : LC0035_SearchInsertPosition.cpp.i
 
-LC0034_SearchforaRange.s: LC0034_SearchforaRange.cpp.s
+LC0035_SearchInsertPosition.s: LC0035_SearchInsertPosition.cpp.s
 
-.PHONY : LC0034_SearchforaRange.s
+.PHONY : LC0035_SearchInsertPosition.s
 
 # target to generate assembly for a file
-LC0034_SearchforaRange.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0034_SearchforaRange.cpp.s
-.PHONY : LC0034_SearchforaRange.cpp.s
+LC0035_SearchInsertPosition.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0035_SearchInsertPosition.cpp.s
+.PHONY : LC0035_SearchInsertPosition.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0034_SearchforaRange.o"
-	@echo "... LC0034_SearchforaRange.i"
-	@echo "... LC0034_SearchforaRange.s"
+	@echo "... LC0035_SearchInsertPosition.o"
+	@echo "... LC0035_SearchInsertPosition.i"
+	@echo "... LC0035_SearchInsertPosition.s"
 .PHONY : help
 
 
