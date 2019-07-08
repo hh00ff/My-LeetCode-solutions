@@ -35,22 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LC0035_SearchInsertPosition.cpp">
+        <entry file="file://$PROJECT_DIR$/LC0036_ValidSudoku.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-              <folding>
-                <element signature="e#35#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC0034_SearchforaRange.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="571">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
               <folding>
                 <element signature="e#36#55#0" expanded="true" />
               </folding>
@@ -62,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -70,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC0030_SubstringwithConcatenationofAllWords.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1695">
+            <state relative-caret-position="782">
               <caret line="113" column="1" selection-start-line="77" selection-end-line="113" selection-end-column="1" />
               <folding>
                 <element signature="e#36#55#0" expanded="true" />
@@ -165,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/quick_sort.cpp" />
         <option value="$PROJECT_DIR$/robot_moving_count.cpp" />
         <option value="$PROJECT_DIR$/maxProductAfterCutting_dp.cpp" />
         <option value="$PROJECT_DIR$/is_numeric.cpp" />
@@ -214,8 +201,9 @@
         <option value="$PROJECT_DIR$/LC0033_SearchinRotatedSortedArray.cpp" />
         <option value="$PROJECT_DIR$/LC0032_LongestValidParentheses.cpp" />
         <option value="$PROJECT_DIR$/LC0034_SearchforaRange.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LC0035_SearchInsertPosition.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LC0036_ValidSudoku.cpp" />
       </list>
     </option>
   </component>
@@ -231,7 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +230,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,18 +331,19 @@
       <workItem from="1561434481609" duration="1815000" />
       <workItem from="1561527489921" duration="5589000" />
       <workItem from="1561994941984" duration="4655000" />
-      <workItem from="1562167451104" duration="1511000" />
+      <workItem from="1562167451104" duration="1706000" />
+      <workItem from="1562599729593" duration="3753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271067000" />
+    <option name="totallyTimeSpent" value="275015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28524047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -402,8 +391,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InversePairs_hfq.cpp" />
-    <entry file="file://$PROJECT_DIR$/MaxInSlidingWindow.cpp" />
     <entry file="file://$PROJECT_DIR$/InversePairs.cpp" />
     <entry file="file://$PROJECT_DIR$/NQueens.cpp" />
     <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/getecudata.cpp" />
@@ -587,20 +574,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC0034_SearchforaRange.cpp">
+    <entry file="file://$PROJECT_DIR$/LC0035_SearchInsertPosition.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
-            <element signature="e#36#55#0" expanded="true" />
+            <element signature="e#35#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC0030_SubstringwithConcatenationofAllWords.cpp">
+    <entry file="file://$PROJECT_DIR$/LC0034_SearchforaRange.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="113" column="1" selection-start-line="77" selection-end-line="113" selection-end-column="1" />
+        <state relative-caret-position="1650">
+          <caret line="110" column="1" selection-start-line="74" selection-end-line="110" selection-end-column="1" />
           <folding>
             <element signature="e#36#55#0" expanded="true" />
           </folding>
@@ -664,16 +651,33 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC0035_SearchInsertPosition.cpp">
+    <entry file="file:///usr/include/c++/5/bits/unordered_set.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="308">
+          <caret line="588" column="6" selection-start-line="588" selection-start-column="6" selection-end-line="588" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0030_SubstringwithConcatenationofAllWords.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="113" column="1" selection-start-line="77" selection-end-line="113" selection-end-column="1" />
           <folding>
-            <element signature="e#35#54#0" expanded="true" />
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0036_ValidSudoku.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
           </folding>
         </state>
       </provider>

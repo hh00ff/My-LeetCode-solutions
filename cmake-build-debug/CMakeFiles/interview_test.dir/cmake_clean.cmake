@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0035_SearchInsertPosition.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0036_ValidSudoku.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
