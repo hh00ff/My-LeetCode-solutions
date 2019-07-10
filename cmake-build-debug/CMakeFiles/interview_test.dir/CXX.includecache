@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0036_ValidSudoku.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0037_SudokuSolver.cpp
 iostream
 -
 vector

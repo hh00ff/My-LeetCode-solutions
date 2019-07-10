@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0036_ValidSudoku.cpp.o  -o interview_test 
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0037_SudokuSolver.cpp.o  -o interview_test 
