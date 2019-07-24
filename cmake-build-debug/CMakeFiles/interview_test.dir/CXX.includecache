@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0037_SudokuSolver.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0038_CountandSay.cpp
 iostream
 -
-vector
--
-unordered_set
+string
 -
 

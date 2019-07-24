@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0037_SudokuSolver.o: LC0037_SudokuSolver.cpp.o
+LC0038_CountandSay.o: LC0038_CountandSay.cpp.o
 
-.PHONY : LC0037_SudokuSolver.o
+.PHONY : LC0038_CountandSay.o
 
 # target to build an object file
-LC0037_SudokuSolver.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0037_SudokuSolver.cpp.o
-.PHONY : LC0037_SudokuSolver.cpp.o
+LC0038_CountandSay.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0038_CountandSay.cpp.o
+.PHONY : LC0038_CountandSay.cpp.o
 
-LC0037_SudokuSolver.i: LC0037_SudokuSolver.cpp.i
+LC0038_CountandSay.i: LC0038_CountandSay.cpp.i
 
-.PHONY : LC0037_SudokuSolver.i
+.PHONY : LC0038_CountandSay.i
 
 # target to preprocess a source file
-LC0037_SudokuSolver.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0037_SudokuSolver.cpp.i
-.PHONY : LC0037_SudokuSolver.cpp.i
+LC0038_CountandSay.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0038_CountandSay.cpp.i
+.PHONY : LC0038_CountandSay.cpp.i
 
-LC0037_SudokuSolver.s: LC0037_SudokuSolver.cpp.s
+LC0038_CountandSay.s: LC0038_CountandSay.cpp.s
 
-.PHONY : LC0037_SudokuSolver.s
+.PHONY : LC0038_CountandSay.s
 
 # target to generate assembly for a file
-LC0037_SudokuSolver.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0037_SudokuSolver.cpp.s
-.PHONY : LC0037_SudokuSolver.cpp.s
+LC0038_CountandSay.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0038_CountandSay.cpp.s
+.PHONY : LC0038_CountandSay.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0037_SudokuSolver.o"
-	@echo "... LC0037_SudokuSolver.i"
-	@echo "... LC0037_SudokuSolver.s"
+	@echo "... LC0038_CountandSay.o"
+	@echo "... LC0038_CountandSay.i"
+	@echo "... LC0038_CountandSay.s"
 .PHONY : help
 
 

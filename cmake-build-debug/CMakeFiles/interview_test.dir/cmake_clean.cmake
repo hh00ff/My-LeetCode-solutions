@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0037_SudokuSolver.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0038_CountandSay.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

@@ -94,7 +94,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0037_SudokuSolver.cpp">
+		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0038_CountandSay.cpp">
 			<Option target="interview_test"/>
 		</Unit>
 		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/CMakeLists.txt">

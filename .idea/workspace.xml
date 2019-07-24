@@ -35,24 +35,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
+        <entry file="file://$PROJECT_DIR$/LC0038_CountandSay.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="134" column="61" lean-forward="true" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
+            <state relative-caret-position="570">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
-                <element signature="e#32#51#0" expanded="true" />
+                <element signature="e#37#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC0036_ValidSudoku.cpp">
+        <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
-              <caret line="105" column="1" selection-start-line="62" selection-end-line="105" selection-end-column="1" />
+            <state relative-caret-position="915">
+              <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
               <folding>
-                <element signature="e#36#55#0" expanded="true" />
+                <element signature="e#32#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -165,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/maxProductAfterCutting_dp.cpp" />
         <option value="$PROJECT_DIR$/is_numeric.cpp" />
         <option value="$PROJECT_DIR$/is_numeric_try.cpp" />
         <option value="$PROJECT_DIR$/FirstNotRepeatingChar.cpp" />
@@ -214,8 +213,9 @@
         <option value="$PROJECT_DIR$/LC0034_SearchforaRange.cpp" />
         <option value="$PROJECT_DIR$/LC0035_SearchInsertPosition.cpp" />
         <option value="$PROJECT_DIR$/LC0036_ValidSudoku.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LC0037_SudokuSolver.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LC0038_CountandSay.cpp" />
       </list>
     </option>
   </component>
@@ -231,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,18 +345,20 @@
       <workItem from="1561994941984" duration="4655000" />
       <workItem from="1562167451104" duration="1706000" />
       <workItem from="1562599729593" duration="3895000" />
-      <workItem from="1562684855663" duration="11074000" />
+      <workItem from="1562684855663" duration="11949000" />
+      <workItem from="1563502766170" duration="3878000" />
+      <workItem from="1563937048688" duration="2048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286231000" />
+    <option name="totallyTimeSpent" value="293032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2885572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29519072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -404,7 +406,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NQueens.cpp" />
     <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/getecudata.cpp" />
     <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/ecu/AnalysisECU.cpp" />
     <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/ecu/AnalysisECU.h" />
@@ -613,6 +614,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LC0036_ValidSudoku.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="1" selection-start-line="62" selection-end-line="105" selection-end-column="1" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0038_CountandSay.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+          <folding>
+            <element signature="e#32#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LC0030_SubstringwithConcatenationofAllWords.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1695">
@@ -674,33 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="72" selection-start-line="32" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LC0036_ValidSudoku.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
-          <caret line="105" column="1" selection-start-line="62" selection-end-line="105" selection-end-column="1" />
-          <folding>
-            <element signature="e#36#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="134" column="61" lean-forward="true" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
-          <folding>
-            <element signature="e#32#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
