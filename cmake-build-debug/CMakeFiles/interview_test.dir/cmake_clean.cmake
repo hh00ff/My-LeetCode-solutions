@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0038_CountandSay.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0039_CombinationSum.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

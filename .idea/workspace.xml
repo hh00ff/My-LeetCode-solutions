@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3cc37d5c-2fcc-447c-ae71-37f7b0f80b92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/build.make" afterDir="false" />
@@ -20,6 +21,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/interview_test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/interview_test.cbp" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,25 +35,77 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+<<<<<<< Updated upstream
+=======
+  <component name="FUSProjectUsageTrigger">
+    <session id="-780058082">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="5" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="2812" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="3" />
+          <entry key="ObjectiveC" value="2812" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+>>>>>>> Stashed changes
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LC0038_CountandSay.cpp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="570">
               <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="e#37#56#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="102">
+              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="915">
               <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LC0033_SearchinRotatedSortedArray.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#32#51#0" expanded="true" />
               </folding>
@@ -59,10 +114,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+=======
+        <entry file="file://$PROJECT_DIR$/LC0032_LongestValidParentheses.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="2" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -70,8 +135,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC0030_SubstringwithConcatenationofAllWords.cpp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="1695">
               <caret line="113" column="1" selection-start-line="77" selection-end-line="113" selection-end-column="1" />
+=======
+            <state relative-caret-position="1224">
+              <caret line="72" selection-start-line="72" selection-end-line="107" selection-end-column="1" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#36#55#0" expanded="true" />
               </folding>
@@ -82,8 +152,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC0019_RemoveNthNodeFromEndofList.cpp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="1440">
               <caret line="96" selection-start-line="39" selection-end-line="96" />
+=======
+            <state relative-caret-position="1411">
+              <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -210,12 +285,16 @@
         <option value="$PROJECT_DIR$/LC0031_NextPermutation.cpp" />
         <option value="$PROJECT_DIR$/LC0033_SearchinRotatedSortedArray.cpp" />
         <option value="$PROJECT_DIR$/LC0032_LongestValidParentheses.cpp" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/LC0034_SearchforaRange.cpp" />
         <option value="$PROJECT_DIR$/LC0035_SearchInsertPosition.cpp" />
         <option value="$PROJECT_DIR$/LC0036_ValidSudoku.cpp" />
         <option value="$PROJECT_DIR$/LC0037_SudokuSolver.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LC0038_CountandSay.cpp" />
+=======
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -342,29 +421,46 @@
       <workItem from="1560949450816" duration="7749000" />
       <workItem from="1561434481609" duration="1815000" />
       <workItem from="1561527489921" duration="5589000" />
+<<<<<<< Updated upstream
       <workItem from="1561994941984" duration="4655000" />
       <workItem from="1562167451104" duration="1706000" />
       <workItem from="1562599729593" duration="3895000" />
       <workItem from="1562684855663" duration="11949000" />
       <workItem from="1563502766170" duration="3878000" />
       <workItem from="1563937048688" duration="2048000" />
+=======
+      <workItem from="1561994941984" duration="4806000" />
+      <workItem from="1562341185642" duration="623000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="293032000" />
+=======
+    <option name="totallyTimeSpent" value="265493000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
+<<<<<<< Updated upstream
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29519072" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27860695" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498618" weight="0.2876569" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3975535" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498618" weight="0.28870293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39853558" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -552,11 +648,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LC0031_NextPermutation.cpp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="221">
           <caret line="72" selection-start-line="72" selection-end-line="107" selection-end-column="1" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="714">
+          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -570,7 +671,45 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/LC0032_LongestValidParentheses.cpp">
+=======
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0032_LongestValidParentheses.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="2" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0031_NextPermutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" selection-start-line="72" selection-end-line="107" selection-end-column="1" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0024_SwapNodesinPairs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0014_LongestCommonPrefix.cpp">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="59" column="2" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
@@ -634,6 +773,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
@@ -702,6 +842,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1395">
           <caret line="93" column="1" selection-start-line="57" selection-end-line="93" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/LC0033_SearchinRotatedSortedArray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="e#36#55#0" expanded="true" />
           </folding>

@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0038_CountandSay.cpp
+/home/hfq/clion_ws/My-LeetCode-solutions/LC0039_CombinationSum.cpp
 iostream
 -
-string
+vector
+-
+algorithm
 -
 
