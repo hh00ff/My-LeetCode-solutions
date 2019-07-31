@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0039_CombinationSum.o: LC0039_CombinationSum.cpp.o
+LC0040_CombinationSumII.o: LC0040_CombinationSumII.cpp.o
 
-.PHONY : LC0039_CombinationSum.o
+.PHONY : LC0040_CombinationSumII.o
 
 # target to build an object file
-LC0039_CombinationSum.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0039_CombinationSum.cpp.o
-.PHONY : LC0039_CombinationSum.cpp.o
+LC0040_CombinationSumII.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0040_CombinationSumII.cpp.o
+.PHONY : LC0040_CombinationSumII.cpp.o
 
-LC0039_CombinationSum.i: LC0039_CombinationSum.cpp.i
+LC0040_CombinationSumII.i: LC0040_CombinationSumII.cpp.i
 
-.PHONY : LC0039_CombinationSum.i
+.PHONY : LC0040_CombinationSumII.i
 
 # target to preprocess a source file
-LC0039_CombinationSum.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0039_CombinationSum.cpp.i
-.PHONY : LC0039_CombinationSum.cpp.i
+LC0040_CombinationSumII.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0040_CombinationSumII.cpp.i
+.PHONY : LC0040_CombinationSumII.cpp.i
 
-LC0039_CombinationSum.s: LC0039_CombinationSum.cpp.s
+LC0040_CombinationSumII.s: LC0040_CombinationSumII.cpp.s
 
-.PHONY : LC0039_CombinationSum.s
+.PHONY : LC0040_CombinationSumII.s
 
 # target to generate assembly for a file
-LC0039_CombinationSum.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0039_CombinationSum.cpp.s
-.PHONY : LC0039_CombinationSum.cpp.s
+LC0040_CombinationSumII.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0040_CombinationSumII.cpp.s
+.PHONY : LC0040_CombinationSumII.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... interview_test"
-	@echo "... LC0039_CombinationSum.o"
-	@echo "... LC0039_CombinationSum.i"
-	@echo "... LC0039_CombinationSum.s"
+	@echo "... LC0040_CombinationSumII.o"
+	@echo "... LC0040_CombinationSumII.i"
+	@echo "... LC0040_CombinationSumII.s"
 .PHONY : help
 
 
