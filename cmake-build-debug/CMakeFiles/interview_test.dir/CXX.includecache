@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/My-LeetCode-solutions/LC0040_CombinationSumII.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0869_ReorderedPowerof2.cpp
 iostream
 -
 vector
--
-algorithm
 -
 

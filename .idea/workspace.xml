@@ -14,6 +14,7 @@
     <list default="true" id="3cc37d5c-2fcc-447c-ae71-37f7b0f80b92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/build.make" afterDir="false" />
@@ -21,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/interview_test.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/interview_test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/interview_test.cbp" afterDir="false" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     </list>
@@ -80,8 +83,13 @@
         <entry file="file://$PROJECT_DIR$/LC0038_CountandSay.cpp">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <state relative-caret-position="570">
               <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+=======
+            <state relative-caret-position="153">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#37#56#0" expanded="true" />
               </folding>
@@ -95,6 +103,7 @@
       </file>
 <<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="915">
@@ -115,6 +124,8 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -310,6 +321,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,13 +333,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/libSVM/libsvm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -427,28 +438,41 @@
       <workItem from="1562599729593" duration="3895000" />
       <workItem from="1562684855663" duration="11949000" />
       <workItem from="1563502766170" duration="3878000" />
+<<<<<<< Updated upstream
       <workItem from="1563937048688" duration="2048000" />
 =======
       <workItem from="1561994941984" duration="4806000" />
       <workItem from="1562341185642" duration="623000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1563937048688" duration="2813000" />
+      <workItem from="1564737608500" duration="676000" />
 >>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="293032000" />
 =======
     <option name="totallyTimeSpent" value="265493000" />
+>>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="294473000" />
 >>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29519072" />
 =======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27860695" />
+>>>>>>> Stashed changes
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29850745" />
 >>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -502,7 +526,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/getecudata.cpp" />
     <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/ecu/AnalysisECU.cpp" />
     <entry file="file:///media/hfq/C37C-D138/Ray_src_20181207/catkin_ws_iv_perception/src/sensor_driver/sensor_driver/src/ecu/AnalysisECU.h" />
     <entry file="file://$PROJECT_DIR$/ReverseInteger.cpp" />
@@ -763,6 +786,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/LC0038_CountandSay.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -774,10 +798,12 @@
       </provider>
     </entry>
 <<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/LC0037_SudokuSolver.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+        <state relative-caret-position="2235">
+          <caret line="149" column="1" selection-start-line="95" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
           <folding>
             <element signature="e#32#51#0" expanded="true" />
           </folding>
@@ -858,6 +884,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="72" selection-start-line="32" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../algorithms/quick_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC0038_CountandSay.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

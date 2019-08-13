@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0040_CombinationSumII.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0869_ReorderedPowerof2.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
