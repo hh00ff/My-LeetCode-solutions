@@ -4,4 +4,4 @@ project(interview_test)
 set(CMAKE_CXX_STANDARD 11)
 
 # add_executable(interview_test my_try.cpp)
-add_executable(interview_test LC0869_ReorderedPowerof2.cpp)
+add_executable(interview_test LC0041_FirstMissingPositive.cpp)

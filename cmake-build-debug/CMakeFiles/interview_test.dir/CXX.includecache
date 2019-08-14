@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0869_ReorderedPowerof2.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0041_FirstMissingPositive.cpp
 iostream
 -
 vector
