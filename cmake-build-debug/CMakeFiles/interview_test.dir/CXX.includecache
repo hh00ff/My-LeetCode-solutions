@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0045_JumpGameII.cpp
-vector
--
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0046_Permutations.cpp
 iostream
+-
+vector
 -
 

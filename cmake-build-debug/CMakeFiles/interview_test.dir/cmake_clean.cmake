@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0045_JumpGameII.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0046_Permutations.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
