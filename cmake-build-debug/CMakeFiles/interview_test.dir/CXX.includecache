@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0046_Permutations.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0047_PermutationsII.cpp
 iostream
 -
 vector
+-
+algorithm
 -
 
