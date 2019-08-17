@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0049_GroupAnagrams.o: LC0049_GroupAnagrams.cpp.o
+LC0050_Pow.o: LC0050_Pow.cpp.o
 
-.PHONY : LC0049_GroupAnagrams.o
+.PHONY : LC0050_Pow.o
 
 # target to build an object file
-LC0049_GroupAnagrams.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0049_GroupAnagrams.cpp.o
-.PHONY : LC0049_GroupAnagrams.cpp.o
+LC0050_Pow.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0050_Pow.cpp.o
+.PHONY : LC0050_Pow.cpp.o
 
-LC0049_GroupAnagrams.i: LC0049_GroupAnagrams.cpp.i
+LC0050_Pow.i: LC0050_Pow.cpp.i
 
-.PHONY : LC0049_GroupAnagrams.i
+.PHONY : LC0050_Pow.i
 
 # target to preprocess a source file
-LC0049_GroupAnagrams.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0049_GroupAnagrams.cpp.i
-.PHONY : LC0049_GroupAnagrams.cpp.i
+LC0050_Pow.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0050_Pow.cpp.i
+.PHONY : LC0050_Pow.cpp.i
 
-LC0049_GroupAnagrams.s: LC0049_GroupAnagrams.cpp.s
+LC0050_Pow.s: LC0050_Pow.cpp.s
 
-.PHONY : LC0049_GroupAnagrams.s
+.PHONY : LC0050_Pow.s
 
 # target to generate assembly for a file
-LC0049_GroupAnagrams.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0049_GroupAnagrams.cpp.s
-.PHONY : LC0049_GroupAnagrams.cpp.s
+LC0050_Pow.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0050_Pow.cpp.s
+.PHONY : LC0050_Pow.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0049_GroupAnagrams.o"
-	@echo "... LC0049_GroupAnagrams.i"
-	@echo "... LC0049_GroupAnagrams.s"
+	@echo "... LC0050_Pow.o"
+	@echo "... LC0050_Pow.i"
+	@echo "... LC0050_Pow.s"
 .PHONY : help
 
 

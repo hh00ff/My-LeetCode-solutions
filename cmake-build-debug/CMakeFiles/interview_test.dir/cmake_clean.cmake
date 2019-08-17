@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0049_GroupAnagrams.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0050_Pow.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

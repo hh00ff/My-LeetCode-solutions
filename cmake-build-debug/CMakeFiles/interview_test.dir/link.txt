@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0049_GroupAnagrams.cpp.o  -o interview_test 
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0050_Pow.cpp.o  -o interview_test 

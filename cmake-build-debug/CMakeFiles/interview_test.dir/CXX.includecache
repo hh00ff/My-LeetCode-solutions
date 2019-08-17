@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0049_GroupAnagrams.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0050_Pow.cpp
 iostream
 -
-string
--
-vector
--
-unordered_map
--
-algorithm
+cmath
 -
 
