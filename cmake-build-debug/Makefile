@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0047_PermutationsII.o: LC0047_PermutationsII.cpp.o
+LC0048_RotateImage.o: LC0048_RotateImage.cpp.o
 
-.PHONY : LC0047_PermutationsII.o
+.PHONY : LC0048_RotateImage.o
 
 # target to build an object file
-LC0047_PermutationsII.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0047_PermutationsII.cpp.o
-.PHONY : LC0047_PermutationsII.cpp.o
+LC0048_RotateImage.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0048_RotateImage.cpp.o
+.PHONY : LC0048_RotateImage.cpp.o
 
-LC0047_PermutationsII.i: LC0047_PermutationsII.cpp.i
+LC0048_RotateImage.i: LC0048_RotateImage.cpp.i
 
-.PHONY : LC0047_PermutationsII.i
+.PHONY : LC0048_RotateImage.i
 
 # target to preprocess a source file
-LC0047_PermutationsII.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0047_PermutationsII.cpp.i
-.PHONY : LC0047_PermutationsII.cpp.i
+LC0048_RotateImage.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0048_RotateImage.cpp.i
+.PHONY : LC0048_RotateImage.cpp.i
 
-LC0047_PermutationsII.s: LC0047_PermutationsII.cpp.s
+LC0048_RotateImage.s: LC0048_RotateImage.cpp.s
 
-.PHONY : LC0047_PermutationsII.s
+.PHONY : LC0048_RotateImage.s
 
 # target to generate assembly for a file
-LC0047_PermutationsII.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0047_PermutationsII.cpp.s
-.PHONY : LC0047_PermutationsII.cpp.s
+LC0048_RotateImage.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0048_RotateImage.cpp.s
+.PHONY : LC0048_RotateImage.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0047_PermutationsII.o"
-	@echo "... LC0047_PermutationsII.i"
-	@echo "... LC0047_PermutationsII.s"
+	@echo "... LC0048_RotateImage.o"
+	@echo "... LC0048_RotateImage.i"
+	@echo "... LC0048_RotateImage.s"
 .PHONY : help
 
 
