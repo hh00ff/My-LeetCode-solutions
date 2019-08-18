@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0055_JumpGame.o: LC0055_JumpGame.cpp.o
+LC0058_LengthofLastWord.o: LC0058_LengthofLastWord.cpp.o
 
-.PHONY : LC0055_JumpGame.o
+.PHONY : LC0058_LengthofLastWord.o
 
 # target to build an object file
-LC0055_JumpGame.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0055_JumpGame.cpp.o
-.PHONY : LC0055_JumpGame.cpp.o
+LC0058_LengthofLastWord.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.o
+.PHONY : LC0058_LengthofLastWord.cpp.o
 
-LC0055_JumpGame.i: LC0055_JumpGame.cpp.i
+LC0058_LengthofLastWord.i: LC0058_LengthofLastWord.cpp.i
 
-.PHONY : LC0055_JumpGame.i
+.PHONY : LC0058_LengthofLastWord.i
 
 # target to preprocess a source file
-LC0055_JumpGame.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0055_JumpGame.cpp.i
-.PHONY : LC0055_JumpGame.cpp.i
+LC0058_LengthofLastWord.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.i
+.PHONY : LC0058_LengthofLastWord.cpp.i
 
-LC0055_JumpGame.s: LC0055_JumpGame.cpp.s
+LC0058_LengthofLastWord.s: LC0058_LengthofLastWord.cpp.s
 
-.PHONY : LC0055_JumpGame.s
+.PHONY : LC0058_LengthofLastWord.s
 
 # target to generate assembly for a file
-LC0055_JumpGame.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0055_JumpGame.cpp.s
-.PHONY : LC0055_JumpGame.cpp.s
+LC0058_LengthofLastWord.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.s
+.PHONY : LC0058_LengthofLastWord.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0055_JumpGame.o"
-	@echo "... LC0055_JumpGame.i"
-	@echo "... LC0055_JumpGame.s"
+	@echo "... LC0058_LengthofLastWord.o"
+	@echo "... LC0058_LengthofLastWord.i"
+	@echo "... LC0058_LengthofLastWord.s"
 .PHONY : help
 
 

@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0055_JumpGame.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0058_LengthofLastWord.cpp
 iostream
 -
-vector
+string
 -
 
