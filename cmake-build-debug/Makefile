@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0059_SpiralMatrixII.o: LC0059_SpiralMatrixII.cpp.o
+LC0060_PermutationSequence.o: LC0060_PermutationSequence.cpp.o
 
-.PHONY : LC0059_SpiralMatrixII.o
+.PHONY : LC0060_PermutationSequence.o
 
 # target to build an object file
-LC0059_SpiralMatrixII.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.o
-.PHONY : LC0059_SpiralMatrixII.cpp.o
+LC0060_PermutationSequence.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.o
+.PHONY : LC0060_PermutationSequence.cpp.o
 
-LC0059_SpiralMatrixII.i: LC0059_SpiralMatrixII.cpp.i
+LC0060_PermutationSequence.i: LC0060_PermutationSequence.cpp.i
 
-.PHONY : LC0059_SpiralMatrixII.i
+.PHONY : LC0060_PermutationSequence.i
 
 # target to preprocess a source file
-LC0059_SpiralMatrixII.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.i
-.PHONY : LC0059_SpiralMatrixII.cpp.i
+LC0060_PermutationSequence.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.i
+.PHONY : LC0060_PermutationSequence.cpp.i
 
-LC0059_SpiralMatrixII.s: LC0059_SpiralMatrixII.cpp.s
+LC0060_PermutationSequence.s: LC0060_PermutationSequence.cpp.s
 
-.PHONY : LC0059_SpiralMatrixII.s
+.PHONY : LC0060_PermutationSequence.s
 
 # target to generate assembly for a file
-LC0059_SpiralMatrixII.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.s
-.PHONY : LC0059_SpiralMatrixII.cpp.s
+LC0060_PermutationSequence.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.s
+.PHONY : LC0060_PermutationSequence.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0059_SpiralMatrixII.o"
-	@echo "... LC0059_SpiralMatrixII.i"
-	@echo "... LC0059_SpiralMatrixII.s"
+	@echo "... LC0060_PermutationSequence.o"
+	@echo "... LC0060_PermutationSequence.i"
+	@echo "... LC0060_PermutationSequence.s"
 .PHONY : help
 
 
