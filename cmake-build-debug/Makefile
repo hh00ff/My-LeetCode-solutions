@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0058_LengthofLastWord.o: LC0058_LengthofLastWord.cpp.o
+LC0059_SpiralMatrixII.o: LC0059_SpiralMatrixII.cpp.o
 
-.PHONY : LC0058_LengthofLastWord.o
+.PHONY : LC0059_SpiralMatrixII.o
 
 # target to build an object file
-LC0058_LengthofLastWord.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.o
-.PHONY : LC0058_LengthofLastWord.cpp.o
+LC0059_SpiralMatrixII.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.o
+.PHONY : LC0059_SpiralMatrixII.cpp.o
 
-LC0058_LengthofLastWord.i: LC0058_LengthofLastWord.cpp.i
+LC0059_SpiralMatrixII.i: LC0059_SpiralMatrixII.cpp.i
 
-.PHONY : LC0058_LengthofLastWord.i
+.PHONY : LC0059_SpiralMatrixII.i
 
 # target to preprocess a source file
-LC0058_LengthofLastWord.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.i
-.PHONY : LC0058_LengthofLastWord.cpp.i
+LC0059_SpiralMatrixII.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.i
+.PHONY : LC0059_SpiralMatrixII.cpp.i
 
-LC0058_LengthofLastWord.s: LC0058_LengthofLastWord.cpp.s
+LC0059_SpiralMatrixII.s: LC0059_SpiralMatrixII.cpp.s
 
-.PHONY : LC0058_LengthofLastWord.s
+.PHONY : LC0059_SpiralMatrixII.s
 
 # target to generate assembly for a file
-LC0058_LengthofLastWord.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.s
-.PHONY : LC0058_LengthofLastWord.cpp.s
+LC0059_SpiralMatrixII.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.s
+.PHONY : LC0059_SpiralMatrixII.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0058_LengthofLastWord.o"
-	@echo "... LC0058_LengthofLastWord.i"
-	@echo "... LC0058_LengthofLastWord.s"
+	@echo "... LC0059_SpiralMatrixII.o"
+	@echo "... LC0059_SpiralMatrixII.i"
+	@echo "... LC0059_SpiralMatrixII.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0058_LengthofLastWord.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0059_SpiralMatrixII.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
