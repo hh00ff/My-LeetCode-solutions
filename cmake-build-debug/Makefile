@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0053_MaximumSubarray.o: LC0053_MaximumSubarray.cpp.o
+LC0054_SpiralMatrix.o: LC0054_SpiralMatrix.cpp.o
 
-.PHONY : LC0053_MaximumSubarray.o
+.PHONY : LC0054_SpiralMatrix.o
 
 # target to build an object file
-LC0053_MaximumSubarray.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.o
-.PHONY : LC0053_MaximumSubarray.cpp.o
+LC0054_SpiralMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0054_SpiralMatrix.cpp.o
+.PHONY : LC0054_SpiralMatrix.cpp.o
 
-LC0053_MaximumSubarray.i: LC0053_MaximumSubarray.cpp.i
+LC0054_SpiralMatrix.i: LC0054_SpiralMatrix.cpp.i
 
-.PHONY : LC0053_MaximumSubarray.i
+.PHONY : LC0054_SpiralMatrix.i
 
 # target to preprocess a source file
-LC0053_MaximumSubarray.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.i
-.PHONY : LC0053_MaximumSubarray.cpp.i
+LC0054_SpiralMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0054_SpiralMatrix.cpp.i
+.PHONY : LC0054_SpiralMatrix.cpp.i
 
-LC0053_MaximumSubarray.s: LC0053_MaximumSubarray.cpp.s
+LC0054_SpiralMatrix.s: LC0054_SpiralMatrix.cpp.s
 
-.PHONY : LC0053_MaximumSubarray.s
+.PHONY : LC0054_SpiralMatrix.s
 
 # target to generate assembly for a file
-LC0053_MaximumSubarray.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.s
-.PHONY : LC0053_MaximumSubarray.cpp.s
+LC0054_SpiralMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0054_SpiralMatrix.cpp.s
+.PHONY : LC0054_SpiralMatrix.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0053_MaximumSubarray.o"
-	@echo "... LC0053_MaximumSubarray.i"
-	@echo "... LC0053_MaximumSubarray.s"
+	@echo "... LC0054_SpiralMatrix.o"
+	@echo "... LC0054_SpiralMatrix.i"
+	@echo "... LC0054_SpiralMatrix.s"
 .PHONY : help
 
 
