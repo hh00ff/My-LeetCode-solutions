@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0054_SpiralMatrix.o: LC0054_SpiralMatrix.cpp.o
+LC0055_JumpGame.o: LC0055_JumpGame.cpp.o
 
-.PHONY : LC0054_SpiralMatrix.o
+.PHONY : LC0055_JumpGame.o
 
 # target to build an object file
-LC0054_SpiralMatrix.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0054_SpiralMatrix.cpp.o
-.PHONY : LC0054_SpiralMatrix.cpp.o
+LC0055_JumpGame.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0055_JumpGame.cpp.o
+.PHONY : LC0055_JumpGame.cpp.o
 
-LC0054_SpiralMatrix.i: LC0054_SpiralMatrix.cpp.i
+LC0055_JumpGame.i: LC0055_JumpGame.cpp.i
 
-.PHONY : LC0054_SpiralMatrix.i
+.PHONY : LC0055_JumpGame.i
 
 # target to preprocess a source file
-LC0054_SpiralMatrix.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0054_SpiralMatrix.cpp.i
-.PHONY : LC0054_SpiralMatrix.cpp.i
+LC0055_JumpGame.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0055_JumpGame.cpp.i
+.PHONY : LC0055_JumpGame.cpp.i
 
-LC0054_SpiralMatrix.s: LC0054_SpiralMatrix.cpp.s
+LC0055_JumpGame.s: LC0055_JumpGame.cpp.s
 
-.PHONY : LC0054_SpiralMatrix.s
+.PHONY : LC0055_JumpGame.s
 
 # target to generate assembly for a file
-LC0054_SpiralMatrix.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0054_SpiralMatrix.cpp.s
-.PHONY : LC0054_SpiralMatrix.cpp.s
+LC0055_JumpGame.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0055_JumpGame.cpp.s
+.PHONY : LC0055_JumpGame.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0054_SpiralMatrix.o"
-	@echo "... LC0054_SpiralMatrix.i"
-	@echo "... LC0054_SpiralMatrix.s"
+	@echo "... LC0055_JumpGame.o"
+	@echo "... LC0055_JumpGame.i"
+	@echo "... LC0055_JumpGame.s"
 .PHONY : help
 
 

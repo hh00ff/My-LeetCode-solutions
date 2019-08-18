@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0054_SpiralMatrix.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0055_JumpGame.cpp
 iostream
 -
 vector
--
-algorithm
 -
 
