@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0050_Pow.o: LC0050_Pow.cpp.o
+LC0053_MaximumSubarray.o: LC0053_MaximumSubarray.cpp.o
 
-.PHONY : LC0050_Pow.o
+.PHONY : LC0053_MaximumSubarray.o
 
 # target to build an object file
-LC0050_Pow.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0050_Pow.cpp.o
-.PHONY : LC0050_Pow.cpp.o
+LC0053_MaximumSubarray.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.o
+.PHONY : LC0053_MaximumSubarray.cpp.o
 
-LC0050_Pow.i: LC0050_Pow.cpp.i
+LC0053_MaximumSubarray.i: LC0053_MaximumSubarray.cpp.i
 
-.PHONY : LC0050_Pow.i
+.PHONY : LC0053_MaximumSubarray.i
 
 # target to preprocess a source file
-LC0050_Pow.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0050_Pow.cpp.i
-.PHONY : LC0050_Pow.cpp.i
+LC0053_MaximumSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.i
+.PHONY : LC0053_MaximumSubarray.cpp.i
 
-LC0050_Pow.s: LC0050_Pow.cpp.s
+LC0053_MaximumSubarray.s: LC0053_MaximumSubarray.cpp.s
 
-.PHONY : LC0050_Pow.s
+.PHONY : LC0053_MaximumSubarray.s
 
 # target to generate assembly for a file
-LC0050_Pow.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0050_Pow.cpp.s
-.PHONY : LC0050_Pow.cpp.s
+LC0053_MaximumSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.s
+.PHONY : LC0053_MaximumSubarray.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0050_Pow.o"
-	@echo "... LC0050_Pow.i"
-	@echo "... LC0050_Pow.s"
+	@echo "... LC0053_MaximumSubarray.o"
+	@echo "... LC0053_MaximumSubarray.i"
+	@echo "... LC0053_MaximumSubarray.s"
 .PHONY : help
 
 

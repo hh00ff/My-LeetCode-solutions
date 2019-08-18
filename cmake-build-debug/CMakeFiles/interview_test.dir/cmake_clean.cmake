@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0050_Pow.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0053_MaximumSubarray.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

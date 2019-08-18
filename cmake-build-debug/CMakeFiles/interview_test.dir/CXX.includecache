@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0050_Pow.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0053_MaximumSubarray.cpp
 iostream
 -
-cmath
+vector
 -
 
