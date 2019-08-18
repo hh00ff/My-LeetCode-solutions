@@ -140,10 +140,10 @@ private:
 
 int main(int argc, char** argv) {
     Test tst = Test();
-//    tst.test1();
-//    tst.test2();
-//    tst.test3();
-//    tst.test4();
+    tst.test1();
+    tst.test2();
+    tst.test3();
+    tst.test4();
     tst.test5();
     return 0;
 }
