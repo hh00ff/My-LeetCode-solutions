@@ -4,4 +4,4 @@ project(interview_test)
 set(CMAKE_CXX_STANDARD 11)
 
 # add_executable(interview_test my_try.cpp)
-add_executable(interview_test LC0061_RotateList.cpp)
+add_executable(interview_test LC0062_UniquePaths.cpp)
