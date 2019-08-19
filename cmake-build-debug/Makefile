@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0065_ValidNumber.o: LC0065_ValidNumber.cpp.o
+LC0066_PlusOne.o: LC0066_PlusOne.cpp.o
 
-.PHONY : LC0065_ValidNumber.o
+.PHONY : LC0066_PlusOne.o
 
 # target to build an object file
-LC0065_ValidNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0065_ValidNumber.cpp.o
-.PHONY : LC0065_ValidNumber.cpp.o
+LC0066_PlusOne.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0066_PlusOne.cpp.o
+.PHONY : LC0066_PlusOne.cpp.o
 
-LC0065_ValidNumber.i: LC0065_ValidNumber.cpp.i
+LC0066_PlusOne.i: LC0066_PlusOne.cpp.i
 
-.PHONY : LC0065_ValidNumber.i
+.PHONY : LC0066_PlusOne.i
 
 # target to preprocess a source file
-LC0065_ValidNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0065_ValidNumber.cpp.i
-.PHONY : LC0065_ValidNumber.cpp.i
+LC0066_PlusOne.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0066_PlusOne.cpp.i
+.PHONY : LC0066_PlusOne.cpp.i
 
-LC0065_ValidNumber.s: LC0065_ValidNumber.cpp.s
+LC0066_PlusOne.s: LC0066_PlusOne.cpp.s
 
-.PHONY : LC0065_ValidNumber.s
+.PHONY : LC0066_PlusOne.s
 
 # target to generate assembly for a file
-LC0065_ValidNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0065_ValidNumber.cpp.s
-.PHONY : LC0065_ValidNumber.cpp.s
+LC0066_PlusOne.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0066_PlusOne.cpp.s
+.PHONY : LC0066_PlusOne.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0065_ValidNumber.o"
-	@echo "... LC0065_ValidNumber.i"
-	@echo "... LC0065_ValidNumber.s"
+	@echo "... LC0066_PlusOne.o"
+	@echo "... LC0066_PlusOne.i"
+	@echo "... LC0066_PlusOne.s"
 .PHONY : help
 
 
