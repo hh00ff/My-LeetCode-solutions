@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0062_UniquePaths.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0063_UniquePathsII.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
