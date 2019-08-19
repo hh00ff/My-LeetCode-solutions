@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0063_UniquePathsII.o: LC0063_UniquePathsII.cpp.o
+LC0064_MinimumPathSum.o: LC0064_MinimumPathSum.cpp.o
 
-.PHONY : LC0063_UniquePathsII.o
+.PHONY : LC0064_MinimumPathSum.o
 
 # target to build an object file
-LC0063_UniquePathsII.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0063_UniquePathsII.cpp.o
-.PHONY : LC0063_UniquePathsII.cpp.o
+LC0064_MinimumPathSum.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0064_MinimumPathSum.cpp.o
+.PHONY : LC0064_MinimumPathSum.cpp.o
 
-LC0063_UniquePathsII.i: LC0063_UniquePathsII.cpp.i
+LC0064_MinimumPathSum.i: LC0064_MinimumPathSum.cpp.i
 
-.PHONY : LC0063_UniquePathsII.i
+.PHONY : LC0064_MinimumPathSum.i
 
 # target to preprocess a source file
-LC0063_UniquePathsII.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0063_UniquePathsII.cpp.i
-.PHONY : LC0063_UniquePathsII.cpp.i
+LC0064_MinimumPathSum.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0064_MinimumPathSum.cpp.i
+.PHONY : LC0064_MinimumPathSum.cpp.i
 
-LC0063_UniquePathsII.s: LC0063_UniquePathsII.cpp.s
+LC0064_MinimumPathSum.s: LC0064_MinimumPathSum.cpp.s
 
-.PHONY : LC0063_UniquePathsII.s
+.PHONY : LC0064_MinimumPathSum.s
 
 # target to generate assembly for a file
-LC0063_UniquePathsII.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0063_UniquePathsII.cpp.s
-.PHONY : LC0063_UniquePathsII.cpp.s
+LC0064_MinimumPathSum.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0064_MinimumPathSum.cpp.s
+.PHONY : LC0064_MinimumPathSum.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0063_UniquePathsII.o"
-	@echo "... LC0063_UniquePathsII.i"
-	@echo "... LC0063_UniquePathsII.s"
+	@echo "... LC0064_MinimumPathSum.o"
+	@echo "... LC0064_MinimumPathSum.i"
+	@echo "... LC0064_MinimumPathSum.s"
 .PHONY : help
 
 
