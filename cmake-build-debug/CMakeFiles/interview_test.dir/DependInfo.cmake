@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hfq/CLionProjects/algorithm_code/interview_test/LC0060_PermutationSequence.cpp" "/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.o"
+  "/home/hfq/CLionProjects/algorithm_code/interview_test/LC0061_RotateList.cpp" "/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/interview_test.dir/LC0061_RotateList.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

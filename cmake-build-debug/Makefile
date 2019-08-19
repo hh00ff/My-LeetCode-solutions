@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0060_PermutationSequence.o: LC0060_PermutationSequence.cpp.o
+LC0061_RotateList.o: LC0061_RotateList.cpp.o
 
-.PHONY : LC0060_PermutationSequence.o
+.PHONY : LC0061_RotateList.o
 
 # target to build an object file
-LC0060_PermutationSequence.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.o
-.PHONY : LC0060_PermutationSequence.cpp.o
+LC0061_RotateList.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0061_RotateList.cpp.o
+.PHONY : LC0061_RotateList.cpp.o
 
-LC0060_PermutationSequence.i: LC0060_PermutationSequence.cpp.i
+LC0061_RotateList.i: LC0061_RotateList.cpp.i
 
-.PHONY : LC0060_PermutationSequence.i
+.PHONY : LC0061_RotateList.i
 
 # target to preprocess a source file
-LC0060_PermutationSequence.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.i
-.PHONY : LC0060_PermutationSequence.cpp.i
+LC0061_RotateList.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0061_RotateList.cpp.i
+.PHONY : LC0061_RotateList.cpp.i
 
-LC0060_PermutationSequence.s: LC0060_PermutationSequence.cpp.s
+LC0061_RotateList.s: LC0061_RotateList.cpp.s
 
-.PHONY : LC0060_PermutationSequence.s
+.PHONY : LC0061_RotateList.s
 
 # target to generate assembly for a file
-LC0060_PermutationSequence.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0060_PermutationSequence.cpp.s
-.PHONY : LC0060_PermutationSequence.cpp.s
+LC0061_RotateList.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0061_RotateList.cpp.s
+.PHONY : LC0061_RotateList.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0060_PermutationSequence.o"
-	@echo "... LC0060_PermutationSequence.i"
-	@echo "... LC0060_PermutationSequence.s"
+	@echo "... LC0061_RotateList.o"
+	@echo "... LC0061_RotateList.i"
+	@echo "... LC0061_RotateList.s"
 .PHONY : help
 
 
