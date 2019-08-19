@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0064_MinimumPathSum.o: LC0064_MinimumPathSum.cpp.o
+LC0065_ValidNumber.o: LC0065_ValidNumber.cpp.o
 
-.PHONY : LC0064_MinimumPathSum.o
+.PHONY : LC0065_ValidNumber.o
 
 # target to build an object file
-LC0064_MinimumPathSum.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0064_MinimumPathSum.cpp.o
-.PHONY : LC0064_MinimumPathSum.cpp.o
+LC0065_ValidNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0065_ValidNumber.cpp.o
+.PHONY : LC0065_ValidNumber.cpp.o
 
-LC0064_MinimumPathSum.i: LC0064_MinimumPathSum.cpp.i
+LC0065_ValidNumber.i: LC0065_ValidNumber.cpp.i
 
-.PHONY : LC0064_MinimumPathSum.i
+.PHONY : LC0065_ValidNumber.i
 
 # target to preprocess a source file
-LC0064_MinimumPathSum.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0064_MinimumPathSum.cpp.i
-.PHONY : LC0064_MinimumPathSum.cpp.i
+LC0065_ValidNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0065_ValidNumber.cpp.i
+.PHONY : LC0065_ValidNumber.cpp.i
 
-LC0064_MinimumPathSum.s: LC0064_MinimumPathSum.cpp.s
+LC0065_ValidNumber.s: LC0065_ValidNumber.cpp.s
 
-.PHONY : LC0064_MinimumPathSum.s
+.PHONY : LC0065_ValidNumber.s
 
 # target to generate assembly for a file
-LC0064_MinimumPathSum.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0064_MinimumPathSum.cpp.s
-.PHONY : LC0064_MinimumPathSum.cpp.s
+LC0065_ValidNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0065_ValidNumber.cpp.s
+.PHONY : LC0065_ValidNumber.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0064_MinimumPathSum.o"
-	@echo "... LC0064_MinimumPathSum.i"
-	@echo "... LC0064_MinimumPathSum.s"
+	@echo "... LC0065_ValidNumber.o"
+	@echo "... LC0065_ValidNumber.i"
+	@echo "... LC0065_ValidNumber.s"
 .PHONY : help
 
 
