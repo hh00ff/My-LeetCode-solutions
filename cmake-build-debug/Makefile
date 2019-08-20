@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0069_Sqrtx.o: LC0069_Sqrtx.cpp.o
+LC0070_ClimbingStairs.o: LC0070_ClimbingStairs.cpp.o
 
-.PHONY : LC0069_Sqrtx.o
+.PHONY : LC0070_ClimbingStairs.o
 
 # target to build an object file
-LC0069_Sqrtx.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0069_Sqrtx.cpp.o
-.PHONY : LC0069_Sqrtx.cpp.o
+LC0070_ClimbingStairs.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.o
+.PHONY : LC0070_ClimbingStairs.cpp.o
 
-LC0069_Sqrtx.i: LC0069_Sqrtx.cpp.i
+LC0070_ClimbingStairs.i: LC0070_ClimbingStairs.cpp.i
 
-.PHONY : LC0069_Sqrtx.i
+.PHONY : LC0070_ClimbingStairs.i
 
 # target to preprocess a source file
-LC0069_Sqrtx.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0069_Sqrtx.cpp.i
-.PHONY : LC0069_Sqrtx.cpp.i
+LC0070_ClimbingStairs.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.i
+.PHONY : LC0070_ClimbingStairs.cpp.i
 
-LC0069_Sqrtx.s: LC0069_Sqrtx.cpp.s
+LC0070_ClimbingStairs.s: LC0070_ClimbingStairs.cpp.s
 
-.PHONY : LC0069_Sqrtx.s
+.PHONY : LC0070_ClimbingStairs.s
 
 # target to generate assembly for a file
-LC0069_Sqrtx.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0069_Sqrtx.cpp.s
-.PHONY : LC0069_Sqrtx.cpp.s
+LC0070_ClimbingStairs.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.s
+.PHONY : LC0070_ClimbingStairs.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0069_Sqrtx.o"
-	@echo "... LC0069_Sqrtx.i"
-	@echo "... LC0069_Sqrtx.s"
+	@echo "... LC0070_ClimbingStairs.o"
+	@echo "... LC0070_ClimbingStairs.i"
+	@echo "... LC0070_ClimbingStairs.s"
 .PHONY : help
 
 
