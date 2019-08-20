@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0072_EditDistance.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

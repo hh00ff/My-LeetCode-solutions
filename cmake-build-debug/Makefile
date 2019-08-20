@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0070_ClimbingStairs.o: LC0070_ClimbingStairs.cpp.o
+LC0072_EditDistance.o: LC0072_EditDistance.cpp.o
 
-.PHONY : LC0070_ClimbingStairs.o
+.PHONY : LC0072_EditDistance.o
 
 # target to build an object file
-LC0070_ClimbingStairs.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.o
-.PHONY : LC0070_ClimbingStairs.cpp.o
+LC0072_EditDistance.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0072_EditDistance.cpp.o
+.PHONY : LC0072_EditDistance.cpp.o
 
-LC0070_ClimbingStairs.i: LC0070_ClimbingStairs.cpp.i
+LC0072_EditDistance.i: LC0072_EditDistance.cpp.i
 
-.PHONY : LC0070_ClimbingStairs.i
+.PHONY : LC0072_EditDistance.i
 
 # target to preprocess a source file
-LC0070_ClimbingStairs.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.i
-.PHONY : LC0070_ClimbingStairs.cpp.i
+LC0072_EditDistance.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0072_EditDistance.cpp.i
+.PHONY : LC0072_EditDistance.cpp.i
 
-LC0070_ClimbingStairs.s: LC0070_ClimbingStairs.cpp.s
+LC0072_EditDistance.s: LC0072_EditDistance.cpp.s
 
-.PHONY : LC0070_ClimbingStairs.s
+.PHONY : LC0072_EditDistance.s
 
 # target to generate assembly for a file
-LC0070_ClimbingStairs.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0070_ClimbingStairs.cpp.s
-.PHONY : LC0070_ClimbingStairs.cpp.s
+LC0072_EditDistance.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0072_EditDistance.cpp.s
+.PHONY : LC0072_EditDistance.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0070_ClimbingStairs.o"
-	@echo "... LC0070_ClimbingStairs.i"
-	@echo "... LC0070_ClimbingStairs.s"
+	@echo "... LC0072_EditDistance.o"
+	@echo "... LC0072_EditDistance.i"
+	@echo "... LC0072_EditDistance.s"
 .PHONY : help
 
 
