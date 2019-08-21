@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0072_EditDistance.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0074_Searcha2DMatrix.cpp
 iostream
 -
-string
--
 vector
--
-algorithm
 -
 
