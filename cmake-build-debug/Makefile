@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0075_SortColors.o: LC0075_SortColors.cpp.o
+LC0076_MinimumWindowSubstring.o: LC0076_MinimumWindowSubstring.cpp.o
 
-.PHONY : LC0075_SortColors.o
+.PHONY : LC0076_MinimumWindowSubstring.o
 
 # target to build an object file
-LC0075_SortColors.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.o
-.PHONY : LC0075_SortColors.cpp.o
+LC0076_MinimumWindowSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.o
+.PHONY : LC0076_MinimumWindowSubstring.cpp.o
 
-LC0075_SortColors.i: LC0075_SortColors.cpp.i
+LC0076_MinimumWindowSubstring.i: LC0076_MinimumWindowSubstring.cpp.i
 
-.PHONY : LC0075_SortColors.i
+.PHONY : LC0076_MinimumWindowSubstring.i
 
 # target to preprocess a source file
-LC0075_SortColors.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.i
-.PHONY : LC0075_SortColors.cpp.i
+LC0076_MinimumWindowSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.i
+.PHONY : LC0076_MinimumWindowSubstring.cpp.i
 
-LC0075_SortColors.s: LC0075_SortColors.cpp.s
+LC0076_MinimumWindowSubstring.s: LC0076_MinimumWindowSubstring.cpp.s
 
-.PHONY : LC0075_SortColors.s
+.PHONY : LC0076_MinimumWindowSubstring.s
 
 # target to generate assembly for a file
-LC0075_SortColors.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.s
-.PHONY : LC0075_SortColors.cpp.s
+LC0076_MinimumWindowSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.s
+.PHONY : LC0076_MinimumWindowSubstring.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0075_SortColors.o"
-	@echo "... LC0075_SortColors.i"
-	@echo "... LC0075_SortColors.s"
+	@echo "... LC0076_MinimumWindowSubstring.o"
+	@echo "... LC0076_MinimumWindowSubstring.i"
+	@echo "... LC0076_MinimumWindowSubstring.s"
 .PHONY : help
 
 
