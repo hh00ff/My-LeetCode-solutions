@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0074_Searcha2DMatrix.o: LC0074_Searcha2DMatrix.cpp.o
+LC0075_SortColors.o: LC0075_SortColors.cpp.o
 
-.PHONY : LC0074_Searcha2DMatrix.o
+.PHONY : LC0075_SortColors.o
 
 # target to build an object file
-LC0074_Searcha2DMatrix.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0074_Searcha2DMatrix.cpp.o
-.PHONY : LC0074_Searcha2DMatrix.cpp.o
+LC0075_SortColors.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.o
+.PHONY : LC0075_SortColors.cpp.o
 
-LC0074_Searcha2DMatrix.i: LC0074_Searcha2DMatrix.cpp.i
+LC0075_SortColors.i: LC0075_SortColors.cpp.i
 
-.PHONY : LC0074_Searcha2DMatrix.i
+.PHONY : LC0075_SortColors.i
 
 # target to preprocess a source file
-LC0074_Searcha2DMatrix.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0074_Searcha2DMatrix.cpp.i
-.PHONY : LC0074_Searcha2DMatrix.cpp.i
+LC0075_SortColors.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.i
+.PHONY : LC0075_SortColors.cpp.i
 
-LC0074_Searcha2DMatrix.s: LC0074_Searcha2DMatrix.cpp.s
+LC0075_SortColors.s: LC0075_SortColors.cpp.s
 
-.PHONY : LC0074_Searcha2DMatrix.s
+.PHONY : LC0075_SortColors.s
 
 # target to generate assembly for a file
-LC0074_Searcha2DMatrix.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0074_Searcha2DMatrix.cpp.s
-.PHONY : LC0074_Searcha2DMatrix.cpp.s
+LC0075_SortColors.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.s
+.PHONY : LC0075_SortColors.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0074_Searcha2DMatrix.o"
-	@echo "... LC0074_Searcha2DMatrix.i"
-	@echo "... LC0074_Searcha2DMatrix.s"
+	@echo "... LC0075_SortColors.o"
+	@echo "... LC0075_SortColors.i"
+	@echo "... LC0075_SortColors.s"
 .PHONY : help
 
 

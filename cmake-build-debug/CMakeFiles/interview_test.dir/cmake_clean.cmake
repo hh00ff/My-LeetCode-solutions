@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0074_Searcha2DMatrix.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0075_SortColors.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
