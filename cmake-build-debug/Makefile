@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0080_RemoveDuplicatesfromSortedArrayII.o: LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o
+LC0082_RemoveDuplicatesfromSortedListII.o: LC0082_RemoveDuplicatesfromSortedListII.cpp.o
 
-.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.o
+.PHONY : LC0082_RemoveDuplicatesfromSortedListII.o
 
 # target to build an object file
-LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o
-.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o
+LC0082_RemoveDuplicatesfromSortedListII.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0082_RemoveDuplicatesfromSortedListII.cpp.o
+.PHONY : LC0082_RemoveDuplicatesfromSortedListII.cpp.o
 
-LC0080_RemoveDuplicatesfromSortedArrayII.i: LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i
+LC0082_RemoveDuplicatesfromSortedListII.i: LC0082_RemoveDuplicatesfromSortedListII.cpp.i
 
-.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.i
+.PHONY : LC0082_RemoveDuplicatesfromSortedListII.i
 
 # target to preprocess a source file
-LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i
-.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i
+LC0082_RemoveDuplicatesfromSortedListII.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0082_RemoveDuplicatesfromSortedListII.cpp.i
+.PHONY : LC0082_RemoveDuplicatesfromSortedListII.cpp.i
 
-LC0080_RemoveDuplicatesfromSortedArrayII.s: LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s
+LC0082_RemoveDuplicatesfromSortedListII.s: LC0082_RemoveDuplicatesfromSortedListII.cpp.s
 
-.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.s
+.PHONY : LC0082_RemoveDuplicatesfromSortedListII.s
 
 # target to generate assembly for a file
-LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s
-.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s
+LC0082_RemoveDuplicatesfromSortedListII.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0082_RemoveDuplicatesfromSortedListII.cpp.s
+.PHONY : LC0082_RemoveDuplicatesfromSortedListII.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0080_RemoveDuplicatesfromSortedArrayII.o"
-	@echo "... LC0080_RemoveDuplicatesfromSortedArrayII.i"
-	@echo "... LC0080_RemoveDuplicatesfromSortedArrayII.s"
+	@echo "... LC0082_RemoveDuplicatesfromSortedListII.o"
+	@echo "... LC0082_RemoveDuplicatesfromSortedListII.i"
+	@echo "... LC0082_RemoveDuplicatesfromSortedListII.s"
 .PHONY : help
 
 

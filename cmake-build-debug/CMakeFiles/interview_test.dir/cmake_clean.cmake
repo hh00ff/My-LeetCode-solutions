@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0082_RemoveDuplicatesfromSortedListII.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

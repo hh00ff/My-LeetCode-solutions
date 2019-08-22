@@ -94,7 +94,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0080_RemoveDuplicatesfromSortedArrayII.cpp">
+		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0082_RemoveDuplicatesfromSortedListII.cpp">
 			<Option target="interview_test"/>
 		</Unit>
 		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/CMakeLists.txt">
