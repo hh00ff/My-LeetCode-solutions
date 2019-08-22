@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0079_WordSearch.o: LC0079_WordSearch.cpp.o
+LC0080_RemoveDuplicatesfromSortedArrayII.o: LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o
 
-.PHONY : LC0079_WordSearch.o
+.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.o
 
 # target to build an object file
-LC0079_WordSearch.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0079_WordSearch.cpp.o
-.PHONY : LC0079_WordSearch.cpp.o
+LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o
+.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.cpp.o
 
-LC0079_WordSearch.i: LC0079_WordSearch.cpp.i
+LC0080_RemoveDuplicatesfromSortedArrayII.i: LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i
 
-.PHONY : LC0079_WordSearch.i
+.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.i
 
 # target to preprocess a source file
-LC0079_WordSearch.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0079_WordSearch.cpp.i
-.PHONY : LC0079_WordSearch.cpp.i
+LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i
+.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.cpp.i
 
-LC0079_WordSearch.s: LC0079_WordSearch.cpp.s
+LC0080_RemoveDuplicatesfromSortedArrayII.s: LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s
 
-.PHONY : LC0079_WordSearch.s
+.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.s
 
 # target to generate assembly for a file
-LC0079_WordSearch.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0079_WordSearch.cpp.s
-.PHONY : LC0079_WordSearch.cpp.s
+LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s
+.PHONY : LC0080_RemoveDuplicatesfromSortedArrayII.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0079_WordSearch.o"
-	@echo "... LC0079_WordSearch.i"
-	@echo "... LC0079_WordSearch.s"
+	@echo "... LC0080_RemoveDuplicatesfromSortedArrayII.o"
+	@echo "... LC0080_RemoveDuplicatesfromSortedArrayII.i"
+	@echo "... LC0080_RemoveDuplicatesfromSortedArrayII.s"
 .PHONY : help
 
 

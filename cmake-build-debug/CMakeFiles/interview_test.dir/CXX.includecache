@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0079_WordSearch.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0080_RemoveDuplicatesfromSortedArrayII.cpp
 iostream
 -
 vector
--
-string
 -
 
