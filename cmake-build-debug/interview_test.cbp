@@ -94,7 +94,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0076_MinimumWindowSubstring.cpp">
+		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/LC0077_Combinations.cpp">
 			<Option target="interview_test"/>
 		</Unit>
 		<Unit filename="/home/hfq/CLionProjects/algorithm_code/interview_test/CMakeLists.txt">

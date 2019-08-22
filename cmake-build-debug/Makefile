@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0076_MinimumWindowSubstring.o: LC0076_MinimumWindowSubstring.cpp.o
+LC0077_Combinations.o: LC0077_Combinations.cpp.o
 
-.PHONY : LC0076_MinimumWindowSubstring.o
+.PHONY : LC0077_Combinations.o
 
 # target to build an object file
-LC0076_MinimumWindowSubstring.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.o
-.PHONY : LC0076_MinimumWindowSubstring.cpp.o
+LC0077_Combinations.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.o
+.PHONY : LC0077_Combinations.cpp.o
 
-LC0076_MinimumWindowSubstring.i: LC0076_MinimumWindowSubstring.cpp.i
+LC0077_Combinations.i: LC0077_Combinations.cpp.i
 
-.PHONY : LC0076_MinimumWindowSubstring.i
+.PHONY : LC0077_Combinations.i
 
 # target to preprocess a source file
-LC0076_MinimumWindowSubstring.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.i
-.PHONY : LC0076_MinimumWindowSubstring.cpp.i
+LC0077_Combinations.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.i
+.PHONY : LC0077_Combinations.cpp.i
 
-LC0076_MinimumWindowSubstring.s: LC0076_MinimumWindowSubstring.cpp.s
+LC0077_Combinations.s: LC0077_Combinations.cpp.s
 
-.PHONY : LC0076_MinimumWindowSubstring.s
+.PHONY : LC0077_Combinations.s
 
 # target to generate assembly for a file
-LC0076_MinimumWindowSubstring.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.s
-.PHONY : LC0076_MinimumWindowSubstring.cpp.s
+LC0077_Combinations.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.s
+.PHONY : LC0077_Combinations.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0076_MinimumWindowSubstring.o"
-	@echo "... LC0076_MinimumWindowSubstring.i"
-	@echo "... LC0076_MinimumWindowSubstring.s"
+	@echo "... LC0077_Combinations.o"
+	@echo "... LC0077_Combinations.i"
+	@echo "... LC0077_Combinations.s"
 .PHONY : help
 
 

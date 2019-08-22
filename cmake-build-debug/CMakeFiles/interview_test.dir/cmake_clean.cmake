@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0076_MinimumWindowSubstring.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

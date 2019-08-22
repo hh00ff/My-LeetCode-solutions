@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0076_MinimumWindowSubstring.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0077_Combinations.cpp
 iostream
 -
-string
--
-unordered_map
+vector
 -
 
