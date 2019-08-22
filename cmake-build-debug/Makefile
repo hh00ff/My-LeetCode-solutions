@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0077_Combinations.o: LC0077_Combinations.cpp.o
+LC0078_Subsets.o: LC0078_Subsets.cpp.o
 
-.PHONY : LC0077_Combinations.o
+.PHONY : LC0078_Subsets.o
 
 # target to build an object file
-LC0077_Combinations.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.o
-.PHONY : LC0077_Combinations.cpp.o
+LC0078_Subsets.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0078_Subsets.cpp.o
+.PHONY : LC0078_Subsets.cpp.o
 
-LC0077_Combinations.i: LC0077_Combinations.cpp.i
+LC0078_Subsets.i: LC0078_Subsets.cpp.i
 
-.PHONY : LC0077_Combinations.i
+.PHONY : LC0078_Subsets.i
 
 # target to preprocess a source file
-LC0077_Combinations.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.i
-.PHONY : LC0077_Combinations.cpp.i
+LC0078_Subsets.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0078_Subsets.cpp.i
+.PHONY : LC0078_Subsets.cpp.i
 
-LC0077_Combinations.s: LC0077_Combinations.cpp.s
+LC0078_Subsets.s: LC0078_Subsets.cpp.s
 
-.PHONY : LC0077_Combinations.s
+.PHONY : LC0078_Subsets.s
 
 # target to generate assembly for a file
-LC0077_Combinations.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0077_Combinations.cpp.s
-.PHONY : LC0077_Combinations.cpp.s
+LC0078_Subsets.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0078_Subsets.cpp.s
+.PHONY : LC0078_Subsets.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0077_Combinations.o"
-	@echo "... LC0077_Combinations.i"
-	@echo "... LC0077_Combinations.s"
+	@echo "... LC0078_Subsets.o"
+	@echo "... LC0078_Subsets.i"
+	@echo "... LC0078_Subsets.s"
 .PHONY : help
 
 

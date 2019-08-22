@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0077_Combinations.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0078_Subsets.cpp
 iostream
 -
 vector
