@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0078_Subsets.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0079_WordSearch.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
