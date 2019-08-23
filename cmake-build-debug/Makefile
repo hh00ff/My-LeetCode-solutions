@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0083_RemoveDuplicatesfromSortedList.o: LC0083_RemoveDuplicatesfromSortedList.cpp.o
+LC0084_LargestRectangleinHistogram.o: LC0084_LargestRectangleinHistogram.cpp.o
 
-.PHONY : LC0083_RemoveDuplicatesfromSortedList.o
+.PHONY : LC0084_LargestRectangleinHistogram.o
 
 # target to build an object file
-LC0083_RemoveDuplicatesfromSortedList.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0083_RemoveDuplicatesfromSortedList.cpp.o
-.PHONY : LC0083_RemoveDuplicatesfromSortedList.cpp.o
+LC0084_LargestRectangleinHistogram.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0084_LargestRectangleinHistogram.cpp.o
+.PHONY : LC0084_LargestRectangleinHistogram.cpp.o
 
-LC0083_RemoveDuplicatesfromSortedList.i: LC0083_RemoveDuplicatesfromSortedList.cpp.i
+LC0084_LargestRectangleinHistogram.i: LC0084_LargestRectangleinHistogram.cpp.i
 
-.PHONY : LC0083_RemoveDuplicatesfromSortedList.i
+.PHONY : LC0084_LargestRectangleinHistogram.i
 
 # target to preprocess a source file
-LC0083_RemoveDuplicatesfromSortedList.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0083_RemoveDuplicatesfromSortedList.cpp.i
-.PHONY : LC0083_RemoveDuplicatesfromSortedList.cpp.i
+LC0084_LargestRectangleinHistogram.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0084_LargestRectangleinHistogram.cpp.i
+.PHONY : LC0084_LargestRectangleinHistogram.cpp.i
 
-LC0083_RemoveDuplicatesfromSortedList.s: LC0083_RemoveDuplicatesfromSortedList.cpp.s
+LC0084_LargestRectangleinHistogram.s: LC0084_LargestRectangleinHistogram.cpp.s
 
-.PHONY : LC0083_RemoveDuplicatesfromSortedList.s
+.PHONY : LC0084_LargestRectangleinHistogram.s
 
 # target to generate assembly for a file
-LC0083_RemoveDuplicatesfromSortedList.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0083_RemoveDuplicatesfromSortedList.cpp.s
-.PHONY : LC0083_RemoveDuplicatesfromSortedList.cpp.s
+LC0084_LargestRectangleinHistogram.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0084_LargestRectangleinHistogram.cpp.s
+.PHONY : LC0084_LargestRectangleinHistogram.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0083_RemoveDuplicatesfromSortedList.o"
-	@echo "... LC0083_RemoveDuplicatesfromSortedList.i"
-	@echo "... LC0083_RemoveDuplicatesfromSortedList.s"
+	@echo "... LC0084_LargestRectangleinHistogram.o"
+	@echo "... LC0084_LargestRectangleinHistogram.i"
+	@echo "... LC0084_LargestRectangleinHistogram.s"
 .PHONY : help
 
 

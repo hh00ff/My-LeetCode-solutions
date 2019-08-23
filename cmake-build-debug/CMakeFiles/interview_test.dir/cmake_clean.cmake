@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0083_RemoveDuplicatesfromSortedList.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0084_LargestRectangleinHistogram.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
