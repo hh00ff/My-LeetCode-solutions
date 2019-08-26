@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0085_MaximalRectangle.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0086_PartitionList.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
