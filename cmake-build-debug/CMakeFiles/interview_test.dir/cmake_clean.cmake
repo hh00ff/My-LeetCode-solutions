@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0088_MergeSortedArray.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0090_Subsets.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

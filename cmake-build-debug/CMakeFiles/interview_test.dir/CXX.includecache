@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0088_MergeSortedArray.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0090_Subsets.cpp
 iostream
 -
 vector
+-
+algorithm
 -
 

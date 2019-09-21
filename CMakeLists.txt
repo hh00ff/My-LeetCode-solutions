@@ -4,4 +4,4 @@ project(interview_test)
 set(CMAKE_CXX_STANDARD 11)
 
 # add_executable(interview_test my_try.cpp)
-add_executable(interview_test LC0088_MergeSortedArray.cpp)
+add_executable(interview_test LC0090_Subsets.cpp)
