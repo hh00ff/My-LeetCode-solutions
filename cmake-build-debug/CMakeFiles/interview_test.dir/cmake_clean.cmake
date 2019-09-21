@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

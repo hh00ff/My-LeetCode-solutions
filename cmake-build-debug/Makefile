@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0091_DecodeWays.o: LC0091_DecodeWays.cpp.o
+LC0092_ReverseLinkedList.o: LC0092_ReverseLinkedList.cpp.o
 
-.PHONY : LC0091_DecodeWays.o
+.PHONY : LC0092_ReverseLinkedList.o
 
 # target to build an object file
-LC0091_DecodeWays.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.o
-.PHONY : LC0091_DecodeWays.cpp.o
+LC0092_ReverseLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.o
+.PHONY : LC0092_ReverseLinkedList.cpp.o
 
-LC0091_DecodeWays.i: LC0091_DecodeWays.cpp.i
+LC0092_ReverseLinkedList.i: LC0092_ReverseLinkedList.cpp.i
 
-.PHONY : LC0091_DecodeWays.i
+.PHONY : LC0092_ReverseLinkedList.i
 
 # target to preprocess a source file
-LC0091_DecodeWays.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.i
-.PHONY : LC0091_DecodeWays.cpp.i
+LC0092_ReverseLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.i
+.PHONY : LC0092_ReverseLinkedList.cpp.i
 
-LC0091_DecodeWays.s: LC0091_DecodeWays.cpp.s
+LC0092_ReverseLinkedList.s: LC0092_ReverseLinkedList.cpp.s
 
-.PHONY : LC0091_DecodeWays.s
+.PHONY : LC0092_ReverseLinkedList.s
 
 # target to generate assembly for a file
-LC0091_DecodeWays.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.s
-.PHONY : LC0091_DecodeWays.cpp.s
+LC0092_ReverseLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.s
+.PHONY : LC0092_ReverseLinkedList.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0091_DecodeWays.o"
-	@echo "... LC0091_DecodeWays.i"
-	@echo "... LC0091_DecodeWays.s"
+	@echo "... LC0092_ReverseLinkedList.o"
+	@echo "... LC0092_ReverseLinkedList.i"
+	@echo "... LC0092_ReverseLinkedList.s"
 .PHONY : help
 
 
