@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0092_ReverseLinkedList.o: LC0092_ReverseLinkedList.cpp.o
+LC0093_RestoreIPAddress.o: LC0093_RestoreIPAddress.cpp.o
 
-.PHONY : LC0092_ReverseLinkedList.o
+.PHONY : LC0093_RestoreIPAddress.o
 
 # target to build an object file
-LC0092_ReverseLinkedList.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.o
-.PHONY : LC0092_ReverseLinkedList.cpp.o
+LC0093_RestoreIPAddress.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.o
+.PHONY : LC0093_RestoreIPAddress.cpp.o
 
-LC0092_ReverseLinkedList.i: LC0092_ReverseLinkedList.cpp.i
+LC0093_RestoreIPAddress.i: LC0093_RestoreIPAddress.cpp.i
 
-.PHONY : LC0092_ReverseLinkedList.i
+.PHONY : LC0093_RestoreIPAddress.i
 
 # target to preprocess a source file
-LC0092_ReverseLinkedList.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.i
-.PHONY : LC0092_ReverseLinkedList.cpp.i
+LC0093_RestoreIPAddress.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.i
+.PHONY : LC0093_RestoreIPAddress.cpp.i
 
-LC0092_ReverseLinkedList.s: LC0092_ReverseLinkedList.cpp.s
+LC0093_RestoreIPAddress.s: LC0093_RestoreIPAddress.cpp.s
 
-.PHONY : LC0092_ReverseLinkedList.s
+.PHONY : LC0093_RestoreIPAddress.s
 
 # target to generate assembly for a file
-LC0092_ReverseLinkedList.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0092_ReverseLinkedList.cpp.s
-.PHONY : LC0092_ReverseLinkedList.cpp.s
+LC0093_RestoreIPAddress.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.s
+.PHONY : LC0093_RestoreIPAddress.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0092_ReverseLinkedList.o"
-	@echo "... LC0092_ReverseLinkedList.i"
-	@echo "... LC0092_ReverseLinkedList.s"
+	@echo "... LC0093_RestoreIPAddress.o"
+	@echo "... LC0093_RestoreIPAddress.i"
+	@echo "... LC0093_RestoreIPAddress.s"
 .PHONY : help
 
 
