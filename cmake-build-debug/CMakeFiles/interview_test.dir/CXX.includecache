@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0086_PartitionList.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0088_MergeSortedArray.cpp
 iostream
+-
+vector
 -
 

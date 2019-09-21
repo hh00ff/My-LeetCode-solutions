@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0086_PartitionList.o: LC0086_PartitionList.cpp.o
+LC0088_MergeSortedArray.o: LC0088_MergeSortedArray.cpp.o
 
-.PHONY : LC0086_PartitionList.o
+.PHONY : LC0088_MergeSortedArray.o
 
 # target to build an object file
-LC0086_PartitionList.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0086_PartitionList.cpp.o
-.PHONY : LC0086_PartitionList.cpp.o
+LC0088_MergeSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0088_MergeSortedArray.cpp.o
+.PHONY : LC0088_MergeSortedArray.cpp.o
 
-LC0086_PartitionList.i: LC0086_PartitionList.cpp.i
+LC0088_MergeSortedArray.i: LC0088_MergeSortedArray.cpp.i
 
-.PHONY : LC0086_PartitionList.i
+.PHONY : LC0088_MergeSortedArray.i
 
 # target to preprocess a source file
-LC0086_PartitionList.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0086_PartitionList.cpp.i
-.PHONY : LC0086_PartitionList.cpp.i
+LC0088_MergeSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0088_MergeSortedArray.cpp.i
+.PHONY : LC0088_MergeSortedArray.cpp.i
 
-LC0086_PartitionList.s: LC0086_PartitionList.cpp.s
+LC0088_MergeSortedArray.s: LC0088_MergeSortedArray.cpp.s
 
-.PHONY : LC0086_PartitionList.s
+.PHONY : LC0088_MergeSortedArray.s
 
 # target to generate assembly for a file
-LC0086_PartitionList.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0086_PartitionList.cpp.s
-.PHONY : LC0086_PartitionList.cpp.s
+LC0088_MergeSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0088_MergeSortedArray.cpp.s
+.PHONY : LC0088_MergeSortedArray.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0086_PartitionList.o"
-	@echo "... LC0086_PartitionList.i"
-	@echo "... LC0086_PartitionList.s"
+	@echo "... LC0088_MergeSortedArray.o"
+	@echo "... LC0088_MergeSortedArray.i"
+	@echo "... LC0088_MergeSortedArray.s"
 .PHONY : help
 
 
