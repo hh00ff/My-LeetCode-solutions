@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/interview_test/LC0090_Subsets.cpp
+/home/hfq/CLionProjects/algorithm_code/interview_test/LC0091_DecodeWays.cpp
 iostream
 -
-vector
--
-algorithm
+string
 -
 

@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0090_Subsets.o: LC0090_Subsets.cpp.o
+LC0091_DecodeWays.o: LC0091_DecodeWays.cpp.o
 
-.PHONY : LC0090_Subsets.o
+.PHONY : LC0091_DecodeWays.o
 
 # target to build an object file
-LC0090_Subsets.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0090_Subsets.cpp.o
-.PHONY : LC0090_Subsets.cpp.o
+LC0091_DecodeWays.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.o
+.PHONY : LC0091_DecodeWays.cpp.o
 
-LC0090_Subsets.i: LC0090_Subsets.cpp.i
+LC0091_DecodeWays.i: LC0091_DecodeWays.cpp.i
 
-.PHONY : LC0090_Subsets.i
+.PHONY : LC0091_DecodeWays.i
 
 # target to preprocess a source file
-LC0090_Subsets.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0090_Subsets.cpp.i
-.PHONY : LC0090_Subsets.cpp.i
+LC0091_DecodeWays.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.i
+.PHONY : LC0091_DecodeWays.cpp.i
 
-LC0090_Subsets.s: LC0090_Subsets.cpp.s
+LC0091_DecodeWays.s: LC0091_DecodeWays.cpp.s
 
-.PHONY : LC0090_Subsets.s
+.PHONY : LC0091_DecodeWays.s
 
 # target to generate assembly for a file
-LC0090_Subsets.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0090_Subsets.cpp.s
-.PHONY : LC0090_Subsets.cpp.s
+LC0091_DecodeWays.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0091_DecodeWays.cpp.s
+.PHONY : LC0091_DecodeWays.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0090_Subsets.o"
-	@echo "... LC0090_Subsets.i"
-	@echo "... LC0090_Subsets.s"
+	@echo "... LC0091_DecodeWays.o"
+	@echo "... LC0091_DecodeWays.i"
+	@echo "... LC0091_DecodeWays.s"
 .PHONY : help
 
 
