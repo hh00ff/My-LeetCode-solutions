@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0098_ValidateBinarySearchTree.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )

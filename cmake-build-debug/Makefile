@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test
+CMAKE_SOURCE_DIR = /home/hfq/clion_ws/My-LeetCode-solutions
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-b
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0093_RestoreIPAddress.o: LC0093_RestoreIPAddress.cpp.o
+LC0098_ValidateBinarySearchTree.o: LC0098_ValidateBinarySearchTree.cpp.o
 
-.PHONY : LC0093_RestoreIPAddress.o
+.PHONY : LC0098_ValidateBinarySearchTree.o
 
 # target to build an object file
-LC0093_RestoreIPAddress.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.o
-.PHONY : LC0093_RestoreIPAddress.cpp.o
+LC0098_ValidateBinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0098_ValidateBinarySearchTree.cpp.o
+.PHONY : LC0098_ValidateBinarySearchTree.cpp.o
 
-LC0093_RestoreIPAddress.i: LC0093_RestoreIPAddress.cpp.i
+LC0098_ValidateBinarySearchTree.i: LC0098_ValidateBinarySearchTree.cpp.i
 
-.PHONY : LC0093_RestoreIPAddress.i
+.PHONY : LC0098_ValidateBinarySearchTree.i
 
 # target to preprocess a source file
-LC0093_RestoreIPAddress.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.i
-.PHONY : LC0093_RestoreIPAddress.cpp.i
+LC0098_ValidateBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0098_ValidateBinarySearchTree.cpp.i
+.PHONY : LC0098_ValidateBinarySearchTree.cpp.i
 
-LC0093_RestoreIPAddress.s: LC0093_RestoreIPAddress.cpp.s
+LC0098_ValidateBinarySearchTree.s: LC0098_ValidateBinarySearchTree.cpp.s
 
-.PHONY : LC0093_RestoreIPAddress.s
+.PHONY : LC0098_ValidateBinarySearchTree.s
 
 # target to generate assembly for a file
-LC0093_RestoreIPAddress.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0093_RestoreIPAddress.cpp.s
-.PHONY : LC0093_RestoreIPAddress.cpp.s
+LC0098_ValidateBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0098_ValidateBinarySearchTree.cpp.s
+.PHONY : LC0098_ValidateBinarySearchTree.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0093_RestoreIPAddress.o"
-	@echo "... LC0093_RestoreIPAddress.i"
-	@echo "... LC0093_RestoreIPAddress.s"
+	@echo "... LC0098_ValidateBinarySearchTree.o"
+	@echo "... LC0098_ValidateBinarySearchTree.i"
+	@echo "... LC0098_ValidateBinarySearchTree.s"
 .PHONY : help
 
 

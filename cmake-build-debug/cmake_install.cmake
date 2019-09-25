@@ -1,4 +1,4 @@
-# Install script for directory: /home/hfq/CLionProjects/algorithm_code/interview_test
+# Install script for directory: /home/hfq/clion_ws/My-LeetCode-solutions
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
