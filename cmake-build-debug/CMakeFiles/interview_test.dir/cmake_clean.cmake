@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0100_SameTree.cpp.o"
-  "interview_test.pdb"
+  "CMakeFiles/interview_test.dir/LC0102_BinaryTreeLevelOrderTraversal.cpp.o"
   "interview_test"
+  "interview_test.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
