@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0099_RecoverBinarySearchTree.o: LC0099_RecoverBinarySearchTree.cpp.o
+LC0100_SameTree.o: LC0100_SameTree.cpp.o
 
-.PHONY : LC0099_RecoverBinarySearchTree.o
+.PHONY : LC0100_SameTree.o
 
 # target to build an object file
-LC0099_RecoverBinarySearchTree.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0099_RecoverBinarySearchTree.cpp.o
-.PHONY : LC0099_RecoverBinarySearchTree.cpp.o
+LC0100_SameTree.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0100_SameTree.cpp.o
+.PHONY : LC0100_SameTree.cpp.o
 
-LC0099_RecoverBinarySearchTree.i: LC0099_RecoverBinarySearchTree.cpp.i
+LC0100_SameTree.i: LC0100_SameTree.cpp.i
 
-.PHONY : LC0099_RecoverBinarySearchTree.i
+.PHONY : LC0100_SameTree.i
 
 # target to preprocess a source file
-LC0099_RecoverBinarySearchTree.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0099_RecoverBinarySearchTree.cpp.i
-.PHONY : LC0099_RecoverBinarySearchTree.cpp.i
+LC0100_SameTree.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0100_SameTree.cpp.i
+.PHONY : LC0100_SameTree.cpp.i
 
-LC0099_RecoverBinarySearchTree.s: LC0099_RecoverBinarySearchTree.cpp.s
+LC0100_SameTree.s: LC0100_SameTree.cpp.s
 
-.PHONY : LC0099_RecoverBinarySearchTree.s
+.PHONY : LC0100_SameTree.s
 
 # target to generate assembly for a file
-LC0099_RecoverBinarySearchTree.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0099_RecoverBinarySearchTree.cpp.s
-.PHONY : LC0099_RecoverBinarySearchTree.cpp.s
+LC0100_SameTree.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0100_SameTree.cpp.s
+.PHONY : LC0100_SameTree.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0099_RecoverBinarySearchTree.o"
-	@echo "... LC0099_RecoverBinarySearchTree.i"
-	@echo "... LC0099_RecoverBinarySearchTree.s"
+	@echo "... LC0100_SameTree.o"
+	@echo "... LC0100_SameTree.i"
+	@echo "... LC0100_SameTree.s"
 .PHONY : help
 
 

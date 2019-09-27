@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0099_RecoverBinarySearchTree.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0100_SameTree.cpp.o"
   "interview_test.pdb"
   "interview_test"
 )
