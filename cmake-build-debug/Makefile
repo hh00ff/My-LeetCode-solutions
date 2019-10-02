@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0104_MaximumDepthofBinaryTree.o: LC0104_MaximumDepthofBinaryTree.cpp.o
+LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.o: LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
 
-.PHONY : LC0104_MaximumDepthofBinaryTree.o
+.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.o
 
 # target to build an object file
-LC0104_MaximumDepthofBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0104_MaximumDepthofBinaryTree.cpp.o
-.PHONY : LC0104_MaximumDepthofBinaryTree.cpp.o
+LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
+.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
 
-LC0104_MaximumDepthofBinaryTree.i: LC0104_MaximumDepthofBinaryTree.cpp.i
+LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.i: LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
 
-.PHONY : LC0104_MaximumDepthofBinaryTree.i
+.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.i
 
 # target to preprocess a source file
-LC0104_MaximumDepthofBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0104_MaximumDepthofBinaryTree.cpp.i
-.PHONY : LC0104_MaximumDepthofBinaryTree.cpp.i
+LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
+.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
 
-LC0104_MaximumDepthofBinaryTree.s: LC0104_MaximumDepthofBinaryTree.cpp.s
+LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.s: LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
 
-.PHONY : LC0104_MaximumDepthofBinaryTree.s
+.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.s
 
 # target to generate assembly for a file
-LC0104_MaximumDepthofBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0104_MaximumDepthofBinaryTree.cpp.s
-.PHONY : LC0104_MaximumDepthofBinaryTree.cpp.s
+LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0104_MaximumDepthofBinaryTree.o"
-	@echo "... LC0104_MaximumDepthofBinaryTree.i"
-	@echo "... LC0104_MaximumDepthofBinaryTree.s"
+	@echo "... LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.o"
+	@echo "... LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.i"
+	@echo "... LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.s"
 .PHONY : help
 
 
