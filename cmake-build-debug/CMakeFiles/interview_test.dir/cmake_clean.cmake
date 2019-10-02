@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0103_BinaryTreeZigzagOrderTraversal.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0104_MaximumDepthofBinaryTree.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )

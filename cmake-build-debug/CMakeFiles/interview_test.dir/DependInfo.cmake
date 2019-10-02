@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hfq/clion_ws/My-LeetCode-solutions/LC0103_BinaryTreeZigzagOrderTraversal.cpp" "/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/LC0103_BinaryTreeZigzagOrderTraversal.cpp.o"
+  "/home/hfq/clion_ws/My-LeetCode-solutions/LC0104_MaximumDepthofBinaryTree.cpp" "/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/LC0104_MaximumDepthofBinaryTree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
