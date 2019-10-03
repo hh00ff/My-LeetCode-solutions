@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.o: LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
+LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.o: LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
 
-.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.o
+.PHONY : LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.o
 
 # target to build an object file
-LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
-.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
+LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
+.PHONY : LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
 
-LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.i: LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
+LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.i: LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
 
-.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.i
+.PHONY : LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.i
 
 # target to preprocess a source file
-LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
-.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
+LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
+.PHONY : LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
 
-LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.s: LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.s: LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
 
-.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.s
+.PHONY : LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.s
 
 # target to generate assembly for a file
-LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
-.PHONY : LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
+.PHONY : LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.o"
-	@echo "... LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.i"
-	@echo "... LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.s"
+	@echo "... LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.o"
+	@echo "... LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.i"
+	@echo "... LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.s"
 .PHONY : help
 
 

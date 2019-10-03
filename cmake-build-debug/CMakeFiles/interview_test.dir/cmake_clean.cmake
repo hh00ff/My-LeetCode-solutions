@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
