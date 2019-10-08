@@ -3,4 +3,4 @@ project(interview_test)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(interview_test LC0109_ConvertSortedListtoBinarySearchTree.cpp)
+add_executable(interview_test LC0110_BalancedBinaryTree.cpp)
