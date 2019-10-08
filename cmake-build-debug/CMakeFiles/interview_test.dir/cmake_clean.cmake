@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0110_BalancedBinaryTree.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0111_MinimumDepthofBinaryTree.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
