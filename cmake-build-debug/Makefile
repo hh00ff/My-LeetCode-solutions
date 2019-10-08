@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0111_MinimumDepthofBinaryTree.o: LC0111_MinimumDepthofBinaryTree.cpp.o
+LC0121_BestTimetoBuyandSellStock.o: LC0121_BestTimetoBuyandSellStock.cpp.o
 
-.PHONY : LC0111_MinimumDepthofBinaryTree.o
+.PHONY : LC0121_BestTimetoBuyandSellStock.o
 
 # target to build an object file
-LC0111_MinimumDepthofBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0111_MinimumDepthofBinaryTree.cpp.o
-.PHONY : LC0111_MinimumDepthofBinaryTree.cpp.o
+LC0121_BestTimetoBuyandSellStock.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.o
+.PHONY : LC0121_BestTimetoBuyandSellStock.cpp.o
 
-LC0111_MinimumDepthofBinaryTree.i: LC0111_MinimumDepthofBinaryTree.cpp.i
+LC0121_BestTimetoBuyandSellStock.i: LC0121_BestTimetoBuyandSellStock.cpp.i
 
-.PHONY : LC0111_MinimumDepthofBinaryTree.i
+.PHONY : LC0121_BestTimetoBuyandSellStock.i
 
 # target to preprocess a source file
-LC0111_MinimumDepthofBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0111_MinimumDepthofBinaryTree.cpp.i
-.PHONY : LC0111_MinimumDepthofBinaryTree.cpp.i
+LC0121_BestTimetoBuyandSellStock.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.i
+.PHONY : LC0121_BestTimetoBuyandSellStock.cpp.i
 
-LC0111_MinimumDepthofBinaryTree.s: LC0111_MinimumDepthofBinaryTree.cpp.s
+LC0121_BestTimetoBuyandSellStock.s: LC0121_BestTimetoBuyandSellStock.cpp.s
 
-.PHONY : LC0111_MinimumDepthofBinaryTree.s
+.PHONY : LC0121_BestTimetoBuyandSellStock.s
 
 # target to generate assembly for a file
-LC0111_MinimumDepthofBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0111_MinimumDepthofBinaryTree.cpp.s
-.PHONY : LC0111_MinimumDepthofBinaryTree.cpp.s
+LC0121_BestTimetoBuyandSellStock.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.s
+.PHONY : LC0121_BestTimetoBuyandSellStock.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0111_MinimumDepthofBinaryTree.o"
-	@echo "... LC0111_MinimumDepthofBinaryTree.i"
-	@echo "... LC0111_MinimumDepthofBinaryTree.s"
+	@echo "... LC0121_BestTimetoBuyandSellStock.o"
+	@echo "... LC0121_BestTimetoBuyandSellStock.i"
+	@echo "... LC0121_BestTimetoBuyandSellStock.s"
 .PHONY : help
 
 
