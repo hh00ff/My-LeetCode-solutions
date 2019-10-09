@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0122_BestTimetoBuyandSellStockII.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0123_BestTimetoBuyandSellStockIII.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
