@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hfq/clion_ws/My-LeetCode-solutions/LC0121_BestTimetoBuyandSellStock.cpp" "/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.o"
+  "/home/hfq/clion_ws/My-LeetCode-solutions/LC0122_BestTimetoBuyandSellStockII.cpp" "/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/LC0122_BestTimetoBuyandSellStockII.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

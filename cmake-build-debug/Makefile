@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0121_BestTimetoBuyandSellStock.o: LC0121_BestTimetoBuyandSellStock.cpp.o
+LC0122_BestTimetoBuyandSellStockII.o: LC0122_BestTimetoBuyandSellStockII.cpp.o
 
-.PHONY : LC0121_BestTimetoBuyandSellStock.o
+.PHONY : LC0122_BestTimetoBuyandSellStockII.o
 
 # target to build an object file
-LC0121_BestTimetoBuyandSellStock.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.o
-.PHONY : LC0121_BestTimetoBuyandSellStock.cpp.o
+LC0122_BestTimetoBuyandSellStockII.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0122_BestTimetoBuyandSellStockII.cpp.o
+.PHONY : LC0122_BestTimetoBuyandSellStockII.cpp.o
 
-LC0121_BestTimetoBuyandSellStock.i: LC0121_BestTimetoBuyandSellStock.cpp.i
+LC0122_BestTimetoBuyandSellStockII.i: LC0122_BestTimetoBuyandSellStockII.cpp.i
 
-.PHONY : LC0121_BestTimetoBuyandSellStock.i
+.PHONY : LC0122_BestTimetoBuyandSellStockII.i
 
 # target to preprocess a source file
-LC0121_BestTimetoBuyandSellStock.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.i
-.PHONY : LC0121_BestTimetoBuyandSellStock.cpp.i
+LC0122_BestTimetoBuyandSellStockII.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0122_BestTimetoBuyandSellStockII.cpp.i
+.PHONY : LC0122_BestTimetoBuyandSellStockII.cpp.i
 
-LC0121_BestTimetoBuyandSellStock.s: LC0121_BestTimetoBuyandSellStock.cpp.s
+LC0122_BestTimetoBuyandSellStockII.s: LC0122_BestTimetoBuyandSellStockII.cpp.s
 
-.PHONY : LC0121_BestTimetoBuyandSellStock.s
+.PHONY : LC0122_BestTimetoBuyandSellStockII.s
 
 # target to generate assembly for a file
-LC0121_BestTimetoBuyandSellStock.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0121_BestTimetoBuyandSellStock.cpp.s
-.PHONY : LC0121_BestTimetoBuyandSellStock.cpp.s
+LC0122_BestTimetoBuyandSellStockII.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0122_BestTimetoBuyandSellStockII.cpp.s
+.PHONY : LC0122_BestTimetoBuyandSellStockII.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0121_BestTimetoBuyandSellStock.o"
-	@echo "... LC0121_BestTimetoBuyandSellStock.i"
-	@echo "... LC0121_BestTimetoBuyandSellStock.s"
+	@echo "... LC0122_BestTimetoBuyandSellStockII.o"
+	@echo "... LC0122_BestTimetoBuyandSellStockII.i"
+	@echo "... LC0122_BestTimetoBuyandSellStockII.s"
 .PHONY : help
 
 
