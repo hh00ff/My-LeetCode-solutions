@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0124_BinaryTreeMaximunPathSum.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0133_CloneGraph.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
