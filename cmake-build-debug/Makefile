@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0123_BestTimetoBuyandSellStockIII.o: LC0123_BestTimetoBuyandSellStockIII.cpp.o
+LC0124_BinaryTreeMaximunPathSum.o: LC0124_BinaryTreeMaximunPathSum.cpp.o
 
-.PHONY : LC0123_BestTimetoBuyandSellStockIII.o
+.PHONY : LC0124_BinaryTreeMaximunPathSum.o
 
 # target to build an object file
-LC0123_BestTimetoBuyandSellStockIII.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0123_BestTimetoBuyandSellStockIII.cpp.o
-.PHONY : LC0123_BestTimetoBuyandSellStockIII.cpp.o
+LC0124_BinaryTreeMaximunPathSum.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0124_BinaryTreeMaximunPathSum.cpp.o
+.PHONY : LC0124_BinaryTreeMaximunPathSum.cpp.o
 
-LC0123_BestTimetoBuyandSellStockIII.i: LC0123_BestTimetoBuyandSellStockIII.cpp.i
+LC0124_BinaryTreeMaximunPathSum.i: LC0124_BinaryTreeMaximunPathSum.cpp.i
 
-.PHONY : LC0123_BestTimetoBuyandSellStockIII.i
+.PHONY : LC0124_BinaryTreeMaximunPathSum.i
 
 # target to preprocess a source file
-LC0123_BestTimetoBuyandSellStockIII.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0123_BestTimetoBuyandSellStockIII.cpp.i
-.PHONY : LC0123_BestTimetoBuyandSellStockIII.cpp.i
+LC0124_BinaryTreeMaximunPathSum.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0124_BinaryTreeMaximunPathSum.cpp.i
+.PHONY : LC0124_BinaryTreeMaximunPathSum.cpp.i
 
-LC0123_BestTimetoBuyandSellStockIII.s: LC0123_BestTimetoBuyandSellStockIII.cpp.s
+LC0124_BinaryTreeMaximunPathSum.s: LC0124_BinaryTreeMaximunPathSum.cpp.s
 
-.PHONY : LC0123_BestTimetoBuyandSellStockIII.s
+.PHONY : LC0124_BinaryTreeMaximunPathSum.s
 
 # target to generate assembly for a file
-LC0123_BestTimetoBuyandSellStockIII.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0123_BestTimetoBuyandSellStockIII.cpp.s
-.PHONY : LC0123_BestTimetoBuyandSellStockIII.cpp.s
+LC0124_BinaryTreeMaximunPathSum.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0124_BinaryTreeMaximunPathSum.cpp.s
+.PHONY : LC0124_BinaryTreeMaximunPathSum.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0123_BestTimetoBuyandSellStockIII.o"
-	@echo "... LC0123_BestTimetoBuyandSellStockIII.i"
-	@echo "... LC0123_BestTimetoBuyandSellStockIII.s"
+	@echo "... LC0124_BinaryTreeMaximunPathSum.o"
+	@echo "... LC0124_BinaryTreeMaximunPathSum.i"
+	@echo "... LC0124_BinaryTreeMaximunPathSum.s"
 .PHONY : help
 
 
