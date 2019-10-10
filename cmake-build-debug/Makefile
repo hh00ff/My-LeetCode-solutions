@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0133_CloneGraph.o: LC0133_CloneGraph.cpp.o
+LC1114_PrintinOrder.o: LC1114_PrintinOrder.cpp.o
 
-.PHONY : LC0133_CloneGraph.o
+.PHONY : LC1114_PrintinOrder.o
 
 # target to build an object file
-LC0133_CloneGraph.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0133_CloneGraph.cpp.o
-.PHONY : LC0133_CloneGraph.cpp.o
+LC1114_PrintinOrder.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.o
+.PHONY : LC1114_PrintinOrder.cpp.o
 
-LC0133_CloneGraph.i: LC0133_CloneGraph.cpp.i
+LC1114_PrintinOrder.i: LC1114_PrintinOrder.cpp.i
 
-.PHONY : LC0133_CloneGraph.i
+.PHONY : LC1114_PrintinOrder.i
 
 # target to preprocess a source file
-LC0133_CloneGraph.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0133_CloneGraph.cpp.i
-.PHONY : LC0133_CloneGraph.cpp.i
+LC1114_PrintinOrder.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.i
+.PHONY : LC1114_PrintinOrder.cpp.i
 
-LC0133_CloneGraph.s: LC0133_CloneGraph.cpp.s
+LC1114_PrintinOrder.s: LC1114_PrintinOrder.cpp.s
 
-.PHONY : LC0133_CloneGraph.s
+.PHONY : LC1114_PrintinOrder.s
 
 # target to generate assembly for a file
-LC0133_CloneGraph.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0133_CloneGraph.cpp.s
-.PHONY : LC0133_CloneGraph.cpp.s
+LC1114_PrintinOrder.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.s
+.PHONY : LC1114_PrintinOrder.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0133_CloneGraph.o"
-	@echo "... LC0133_CloneGraph.i"
-	@echo "... LC0133_CloneGraph.s"
+	@echo "... LC1114_PrintinOrder.o"
+	@echo "... LC1114_PrintinOrder.i"
+	@echo "... LC1114_PrintinOrder.s"
 .PHONY : help
 
 

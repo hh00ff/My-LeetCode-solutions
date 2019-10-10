@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0133_CloneGraph.cpp.o"
+  "CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
