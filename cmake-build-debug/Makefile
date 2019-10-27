@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC1114_PrintinOrder.o: LC1114_PrintinOrder.cpp.o
+LC0128_LongestConsecutiveSequence.o: LC0128_LongestConsecutiveSequence.cpp.o
 
-.PHONY : LC1114_PrintinOrder.o
+.PHONY : LC0128_LongestConsecutiveSequence.o
 
 # target to build an object file
-LC1114_PrintinOrder.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.o
-.PHONY : LC1114_PrintinOrder.cpp.o
+LC0128_LongestConsecutiveSequence.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o
+.PHONY : LC0128_LongestConsecutiveSequence.cpp.o
 
-LC1114_PrintinOrder.i: LC1114_PrintinOrder.cpp.i
+LC0128_LongestConsecutiveSequence.i: LC0128_LongestConsecutiveSequence.cpp.i
 
-.PHONY : LC1114_PrintinOrder.i
+.PHONY : LC0128_LongestConsecutiveSequence.i
 
 # target to preprocess a source file
-LC1114_PrintinOrder.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.i
-.PHONY : LC1114_PrintinOrder.cpp.i
+LC0128_LongestConsecutiveSequence.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.i
+.PHONY : LC0128_LongestConsecutiveSequence.cpp.i
 
-LC1114_PrintinOrder.s: LC1114_PrintinOrder.cpp.s
+LC0128_LongestConsecutiveSequence.s: LC0128_LongestConsecutiveSequence.cpp.s
 
-.PHONY : LC1114_PrintinOrder.s
+.PHONY : LC0128_LongestConsecutiveSequence.s
 
 # target to generate assembly for a file
-LC1114_PrintinOrder.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC1114_PrintinOrder.cpp.s
-.PHONY : LC1114_PrintinOrder.cpp.s
+LC0128_LongestConsecutiveSequence.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.s
+.PHONY : LC0128_LongestConsecutiveSequence.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC1114_PrintinOrder.o"
-	@echo "... LC1114_PrintinOrder.i"
-	@echo "... LC1114_PrintinOrder.s"
+	@echo "... LC0128_LongestConsecutiveSequence.o"
+	@echo "... LC0128_LongestConsecutiveSequence.i"
+	@echo "... LC0128_LongestConsecutiveSequence.s"
 .PHONY : help
 
 

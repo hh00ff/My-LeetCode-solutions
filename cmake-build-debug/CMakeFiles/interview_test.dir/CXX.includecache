@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/My-LeetCode-solutions/try.cpp
+/home/hfq/clion_ws/My-LeetCode-solutions/myTry.cpp
 iostream
 -
-deque
+string
 -
 
