@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0128_LongestConsecutiveSequence.o: LC0128_LongestConsecutiveSequence.cpp.o
+LC0112_PathSum.o: LC0112_PathSum.cpp.o
 
-.PHONY : LC0128_LongestConsecutiveSequence.o
+.PHONY : LC0112_PathSum.o
 
 # target to build an object file
-LC0128_LongestConsecutiveSequence.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o
-.PHONY : LC0128_LongestConsecutiveSequence.cpp.o
+LC0112_PathSum.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o
+.PHONY : LC0112_PathSum.cpp.o
 
-LC0128_LongestConsecutiveSequence.i: LC0128_LongestConsecutiveSequence.cpp.i
+LC0112_PathSum.i: LC0112_PathSum.cpp.i
 
-.PHONY : LC0128_LongestConsecutiveSequence.i
+.PHONY : LC0112_PathSum.i
 
 # target to preprocess a source file
-LC0128_LongestConsecutiveSequence.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.i
-.PHONY : LC0128_LongestConsecutiveSequence.cpp.i
+LC0112_PathSum.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.i
+.PHONY : LC0112_PathSum.cpp.i
 
-LC0128_LongestConsecutiveSequence.s: LC0128_LongestConsecutiveSequence.cpp.s
+LC0112_PathSum.s: LC0112_PathSum.cpp.s
 
-.PHONY : LC0128_LongestConsecutiveSequence.s
+.PHONY : LC0112_PathSum.s
 
 # target to generate assembly for a file
-LC0128_LongestConsecutiveSequence.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.s
-.PHONY : LC0128_LongestConsecutiveSequence.cpp.s
+LC0112_PathSum.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.s
+.PHONY : LC0112_PathSum.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0128_LongestConsecutiveSequence.o"
-	@echo "... LC0128_LongestConsecutiveSequence.i"
-	@echo "... LC0128_LongestConsecutiveSequence.s"
+	@echo "... LC0112_PathSum.o"
+	@echo "... LC0112_PathSum.i"
+	@echo "... LC0112_PathSum.s"
 .PHONY : help
 
 

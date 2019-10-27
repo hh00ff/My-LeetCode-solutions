@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )

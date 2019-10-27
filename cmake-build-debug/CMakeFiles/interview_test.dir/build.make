@@ -57,27 +57,27 @@ include CMakeFiles/interview_test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/interview_test.dir/flags.make
 
-CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o: CMakeFiles/interview_test.dir/flags.make
-CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o: ../LC0128_LongestConsecutiveSequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o -c /home/hfq/clion_ws/My-LeetCode-solutions/LC0128_LongestConsecutiveSequence.cpp
+CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o: CMakeFiles/interview_test.dir/flags.make
+CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o: ../LC0112_PathSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o -c /home/hfq/clion_ws/My-LeetCode-solutions/LC0112_PathSum.cpp
 
-CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/My-LeetCode-solutions/LC0128_LongestConsecutiveSequence.cpp > CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.i
+CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/My-LeetCode-solutions/LC0112_PathSum.cpp > CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.i
 
-CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/My-LeetCode-solutions/LC0128_LongestConsecutiveSequence.cpp -o CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.s
+CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/My-LeetCode-solutions/LC0112_PathSum.cpp -o CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.s
 
 # Object files for target interview_test
 interview_test_OBJECTS = \
-"CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o"
+"CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o"
 
 # External object files for target interview_test
 interview_test_EXTERNAL_OBJECTS =
 
-interview_test: CMakeFiles/interview_test.dir/LC0128_LongestConsecutiveSequence.cpp.o
+interview_test: CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o
 interview_test: CMakeFiles/interview_test.dir/build.make
 interview_test: CMakeFiles/interview_test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable interview_test"
