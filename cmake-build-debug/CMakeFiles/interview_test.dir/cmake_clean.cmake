@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0112_PathSum.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
