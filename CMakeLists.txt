@@ -3,4 +3,4 @@ project(interview_test)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(interview_test LC0114_FlattenBinaryTreetoLinkedList.cpp)
+add_executable(interview_test LC0115_DistinctSubsequences.cpp)
