@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hfq/clion_ws/My-LeetCode-solutions
+CMAKE_SOURCE_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/interview_test.dir/depend.make
@@ -57,30 +57,30 @@ include CMakeFiles/interview_test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/interview_test.dir/flags.make
 
-CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o: CMakeFiles/interview_test.dir/flags.make
-CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o: ../LC0113_PathSumII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o -c /home/hfq/clion_ws/My-LeetCode-solutions/LC0113_PathSumII.cpp
+CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o: CMakeFiles/interview_test.dir/flags.make
+CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o: ../LC0114_FlattenBinaryTreetoLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o -c /home/hfq/CLionProjects/algorithm_code/interview_test/LC0114_FlattenBinaryTreetoLinkedList.cpp
 
-CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/My-LeetCode-solutions/LC0113_PathSumII.cpp > CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.i
+CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/CLionProjects/algorithm_code/interview_test/LC0114_FlattenBinaryTreetoLinkedList.cpp > CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.i
 
-CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/My-LeetCode-solutions/LC0113_PathSumII.cpp -o CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.s
+CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/CLionProjects/algorithm_code/interview_test/LC0114_FlattenBinaryTreetoLinkedList.cpp -o CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.s
 
 # Object files for target interview_test
 interview_test_OBJECTS = \
-"CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o"
+"CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o"
 
 # External object files for target interview_test
 interview_test_EXTERNAL_OBJECTS =
 
-interview_test: CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o
+interview_test: CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o
 interview_test: CMakeFiles/interview_test.dir/build.make
 interview_test: CMakeFiles/interview_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable interview_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable interview_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/interview_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/interview_test.dir/clean:
 .PHONY : CMakeFiles/interview_test.dir/clean
 
 CMakeFiles/interview_test.dir/depend:
-	cd /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hfq/clion_ws/My-LeetCode-solutions /home/hfq/clion_ws/My-LeetCode-solutions /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hfq/CLionProjects/algorithm_code/interview_test /home/hfq/CLionProjects/algorithm_code/interview_test /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/interview_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/interview_test.dir/depend
 

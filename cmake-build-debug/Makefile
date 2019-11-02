@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hfq/clion_ws/My-LeetCode-solutions
+CMAKE_SOURCE_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/hfq/clion-2019.2.2/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/hfq/clion-2019.1/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/clion_ws/My-LeetCode-solutions/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hfq/CLionProjects/algorithm_code/interview_test/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ interview_test/fast:
 	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0113_PathSumII.o: LC0113_PathSumII.cpp.o
+LC0114_FlattenBinaryTreetoLinkedList.o: LC0114_FlattenBinaryTreetoLinkedList.cpp.o
 
-.PHONY : LC0113_PathSumII.o
+.PHONY : LC0114_FlattenBinaryTreetoLinkedList.o
 
 # target to build an object file
-LC0113_PathSumII.cpp.o:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.o
-.PHONY : LC0113_PathSumII.cpp.o
+LC0114_FlattenBinaryTreetoLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.o
+.PHONY : LC0114_FlattenBinaryTreetoLinkedList.cpp.o
 
-LC0113_PathSumII.i: LC0113_PathSumII.cpp.i
+LC0114_FlattenBinaryTreetoLinkedList.i: LC0114_FlattenBinaryTreetoLinkedList.cpp.i
 
-.PHONY : LC0113_PathSumII.i
+.PHONY : LC0114_FlattenBinaryTreetoLinkedList.i
 
 # target to preprocess a source file
-LC0113_PathSumII.cpp.i:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.i
-.PHONY : LC0113_PathSumII.cpp.i
+LC0114_FlattenBinaryTreetoLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.i
+.PHONY : LC0114_FlattenBinaryTreetoLinkedList.cpp.i
 
-LC0113_PathSumII.s: LC0113_PathSumII.cpp.s
+LC0114_FlattenBinaryTreetoLinkedList.s: LC0114_FlattenBinaryTreetoLinkedList.cpp.s
 
-.PHONY : LC0113_PathSumII.s
+.PHONY : LC0114_FlattenBinaryTreetoLinkedList.s
 
 # target to generate assembly for a file
-LC0113_PathSumII.cpp.s:
-	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0113_PathSumII.cpp.s
-.PHONY : LC0113_PathSumII.cpp.s
+LC0114_FlattenBinaryTreetoLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0114_FlattenBinaryTreetoLinkedList.cpp.s
+.PHONY : LC0114_FlattenBinaryTreetoLinkedList.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
 	@echo "... edit_cache"
-	@echo "... LC0113_PathSumII.o"
-	@echo "... LC0113_PathSumII.i"
-	@echo "... LC0113_PathSumII.s"
+	@echo "... LC0114_FlattenBinaryTreetoLinkedList.o"
+	@echo "... LC0114_FlattenBinaryTreetoLinkedList.i"
+	@echo "... LC0114_FlattenBinaryTreetoLinkedList.s"
 .PHONY : help
 
 
