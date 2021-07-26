@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="interview_test"/>
+		<Option title="my_leetcode_solutions"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="msvc8"/>
 		<Option virtualFolders="CMake Files\;"/>
@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/c_space/My-LeetCode-solutions/LC0115_DistinctSubsequences.cpp">
+		<Unit filename="D:/c_space/My-LeetCode-solutions/LC0002_AddTwoNumbers_Recursive.cpp">
 			<Option target="interview_test"/>
 		</Unit>
 		<Unit filename="D:/c_space/My-LeetCode-solutions/CMakeLists.txt">

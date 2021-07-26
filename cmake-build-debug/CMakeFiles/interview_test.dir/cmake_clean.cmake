@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0115_DistinctSubsequences.cpp.o"
-  "interview_test"
+  "CMakeFiles/interview_test.dir/LC0002_AddTwoNumbers_Recursive.cpp.obj"
+  "interview_test.exe"
+  "interview_test.exe.manifest"
+  "interview_test.lib"
   "interview_test.pdb"
 )
 

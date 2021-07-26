@@ -1,63 +1,46 @@
 //
-// Created by hfq on 19-4-17.
+// Created by hufen on 2021/7/26.
 //
 
 #include <iostream>
 
 struct ListNode {
     int val;
-    ListNode *next;
-    explicit ListNode(int x) : val(x), next(nullptr) {}
+    ListNode* next;
+    explicit ListNode(int x): val(x), next(nullptr) {}
 };
 
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* head = nullptr;
-        ListNode* Node = nullptr;
-        ListNode* Node1 = l1;
-        ListNode* Node2 = l2;
-        int num = 0;
-        bool carry = false;
-        if(l1 == nullptr && l2 == nullptr) {
-            return head;
+        if(l1 == nullptr) {
+            return l2;
         }
-        if(Node1 != nullptr) {
-            num += Node1->val;
-            Node1 = Node1->next;
+        if(l2 == nullptr) {
+            return l1;
         }
-        if(Node2 != nullptr) {
-            num += Node2->val;
-            Node2 = Node2->next;
-        }
-        if(num >= 10) {
-            num -= 10;
-            carry = true;
-        }
-        Node = new ListNode(num);
-        head = Node;
-        while(Node1 != nullptr || Node2 != nullptr || carry) {
-            num = 0;
-            if(Node1 != nullptr) {
-                num += Node1->val;
-                Node1 = Node1->next;
-            }
-            if(Node2 != nullptr) {
-                num += Node2->val;
-                Node2 = Node2->next;
-            }
-            if(carry) {
-                num += 1;
-                carry = false;
-            }
-            if(num >= 10) {
-                num -= 10;
-                carry = true;
-            }
-            Node->next = new ListNode(num);
-            Node = Node->next;
-        }
+        auto head = new ListNode(0);
+        int carry = 0;
+        addTwoNumbersCore(l1, l2, head, carry);
         return head;
+    }
+
+    void addTwoNumbersCore(ListNode* l1, ListNode* l2, ListNode* head, int carry) {
+        if(l1) {
+            head->val += l1->val;
+            l1 = l1->next;
+        }
+        if(l2) {
+            head->val += l2->val;
+            l2 = l2->next;
+        }
+        head->val += carry;
+        carry = head->val / 10;
+        head->val = head->val % 10;
+        if(l1 || l2 || carry) {
+            head->next = new ListNode(0);
+            addTwoNumbersCore(l1, l2, head->next, carry);
+        }
     }
 };
 
