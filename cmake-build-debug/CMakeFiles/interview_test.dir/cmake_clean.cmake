@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0002_AddTwoNumbers_Recursive.cpp.obj"
-  "interview_test.exe"
-  "interview_test.exe.manifest"
-  "interview_test.lib"
+  "CMakeFiles/interview_test.dir/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o"
+  "interview_test"
   "interview_test.pdb"
 )
 

@@ -1,38 +1,36 @@
 //
-// Created by hfq on 19-4-18.
+// Created by hfq on 2021/7/27.
 //
-#include <string>
-#include <unordered_map>
-#include <vector>
 #include <iostream>
+#include <unordered_set>
+#include <string>
 
 class Solution {
 public:
     int lengthOfLongestSubstring(std::string s) {
-        std::unordered_map<char, int> hashChar;
-        std::vector<int> vLongestSubs;
-        int maxLen = 0;
-        int curLen = 0;
         if(s.empty()) {
             return 0;
         }
-        std::unordered_map<char, int>::iterator mp_iter;
-        for(int i = 0; i < s.size(); i++) {
-            mp_iter = hashChar.find(s[i]);
-            if(mp_iter == hashChar.end()) {
-                hashChar.insert(std::make_pair(s[i], i));
-                curLen++;
+        std::unordered_set<char> st;
+        auto l= s.begin();
+        auto r = l;
+        int maxLen = 0;
+        int curLen = 0;
+        for(; l!= s.end(); l++) {
+            for(; r != s.end(); r++) {
+                if(st.find(*r) != st.end()) {
+                    break;
+                }
+                else {
+                    st.insert(*r);
+                    curLen++;
+                }
             }
-            else if(i - mp_iter->second > curLen) {
-                curLen++;
-                mp_iter -> second = i;
+            if(curLen > maxLen) {
+                maxLen = curLen;
             }
-            else {
-                curLen = i - mp_iter->second;
-                mp_iter -> second = i;
-            }
-            maxLen = maxLen > curLen ? maxLen : curLen;
-            vLongestSubs.push_back(curLen);
+            st.erase(*l);
+            curLen--;
         }
         return maxLen;
     }

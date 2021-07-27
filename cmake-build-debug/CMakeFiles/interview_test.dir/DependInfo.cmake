@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/c_space/My-LeetCode-solutions/LC0002_AddTwoNumbers_Recursive.cpp" "D:/c_space/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/LC0002_AddTwoNumbers_Recursive.cpp.obj"
+  "/home/hfq/code/c_space/My-LeetCode-solutions/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp" "/home/hfq/code/c_space/My-LeetCode-solutions/cmake-build-debug/CMakeFiles/interview_test.dir/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
