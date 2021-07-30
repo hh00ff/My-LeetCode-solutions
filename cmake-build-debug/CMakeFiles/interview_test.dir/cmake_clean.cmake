@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays.cpp.o"
-  "interview_test"
+  "CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays_BinarySearch.cpp.obj"
+  "interview_test.exe"
+  "interview_test.exe.manifest"
+  "interview_test.lib"
   "interview_test.pdb"
 )
 
