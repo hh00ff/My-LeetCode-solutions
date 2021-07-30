@@ -143,32 +143,32 @@ interview_test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.o: LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o
+LC0004_MedianofTwoSortedArrays.o: LC0004_MedianofTwoSortedArrays.cpp.o
 
-.PHONY : LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.o
+.PHONY : LC0004_MedianofTwoSortedArrays.o
 
 # target to build an object file
-LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o
-.PHONY : LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o
+LC0004_MedianofTwoSortedArrays.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays.cpp.o
+.PHONY : LC0004_MedianofTwoSortedArrays.cpp.o
 
-LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.i: LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.i
+LC0004_MedianofTwoSortedArrays.i: LC0004_MedianofTwoSortedArrays.cpp.i
 
-.PHONY : LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.i
+.PHONY : LC0004_MedianofTwoSortedArrays.i
 
 # target to preprocess a source file
-LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.i
-.PHONY : LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.i
+LC0004_MedianofTwoSortedArrays.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays.cpp.i
+.PHONY : LC0004_MedianofTwoSortedArrays.cpp.i
 
-LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.s: LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.s
+LC0004_MedianofTwoSortedArrays.s: LC0004_MedianofTwoSortedArrays.cpp.s
 
-.PHONY : LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.s
+.PHONY : LC0004_MedianofTwoSortedArrays.s
 
 # target to generate assembly for a file
-LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.s
-.PHONY : LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.s
+LC0004_MedianofTwoSortedArrays.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays.cpp.s
+.PHONY : LC0004_MedianofTwoSortedArrays.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
-	@echo "... LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.o"
-	@echo "... LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.i"
-	@echo "... LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.s"
+	@echo "... LC0004_MedianofTwoSortedArrays.o"
+	@echo "... LC0004_MedianofTwoSortedArrays.i"
+	@echo "... LC0004_MedianofTwoSortedArrays.s"
 .PHONY : help
 
 

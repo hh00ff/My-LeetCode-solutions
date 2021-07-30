@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0003_LongestSubstringWithoutRepeatingCharacters_MovingWindow.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
