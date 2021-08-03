@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/interview_test.dir/LC0006_ZigZagConversion.cpp.o  -o interview_test 

@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/c_space/My-LeetCode-solutions/LC0004_MedianofTwoSortedArrays_BinarySearch.cpp
+/home/hfq/code/c_space/My-LeetCode-solutions/LC0006_ZigZagConversion.cpp
 iostream
 -
-vector
--
-algorithm
+string
 -
 

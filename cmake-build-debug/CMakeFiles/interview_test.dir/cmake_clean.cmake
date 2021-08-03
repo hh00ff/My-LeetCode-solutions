@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0004_MedianofTwoSortedArrays_BinarySearch.cpp.obj"
-  "interview_test.exe"
-  "interview_test.exe.manifest"
-  "interview_test.lib"
+  "CMakeFiles/interview_test.dir/LC0006_ZigZagConversion.cpp.o"
+  "interview_test"
   "interview_test.pdb"
 )
 
