@@ -143,32 +143,32 @@ interview_test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/build
 .PHONY : interview_test/fast
 
-LC0006_ZigZagConversion.o: LC0006_ZigZagConversion.cpp.o
+LC0007_ReverseInteger.o: LC0007_ReverseInteger.cpp.o
 
-.PHONY : LC0006_ZigZagConversion.o
+.PHONY : LC0007_ReverseInteger.o
 
 # target to build an object file
-LC0006_ZigZagConversion.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0006_ZigZagConversion.cpp.o
-.PHONY : LC0006_ZigZagConversion.cpp.o
+LC0007_ReverseInteger.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0007_ReverseInteger.cpp.o
+.PHONY : LC0007_ReverseInteger.cpp.o
 
-LC0006_ZigZagConversion.i: LC0006_ZigZagConversion.cpp.i
+LC0007_ReverseInteger.i: LC0007_ReverseInteger.cpp.i
 
-.PHONY : LC0006_ZigZagConversion.i
+.PHONY : LC0007_ReverseInteger.i
 
 # target to preprocess a source file
-LC0006_ZigZagConversion.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0006_ZigZagConversion.cpp.i
-.PHONY : LC0006_ZigZagConversion.cpp.i
+LC0007_ReverseInteger.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0007_ReverseInteger.cpp.i
+.PHONY : LC0007_ReverseInteger.cpp.i
 
-LC0006_ZigZagConversion.s: LC0006_ZigZagConversion.cpp.s
+LC0007_ReverseInteger.s: LC0007_ReverseInteger.cpp.s
 
-.PHONY : LC0006_ZigZagConversion.s
+.PHONY : LC0007_ReverseInteger.s
 
 # target to generate assembly for a file
-LC0006_ZigZagConversion.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0006_ZigZagConversion.cpp.s
-.PHONY : LC0006_ZigZagConversion.cpp.s
+LC0007_ReverseInteger.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/interview_test.dir/build.make CMakeFiles/interview_test.dir/LC0007_ReverseInteger.cpp.s
+.PHONY : LC0007_ReverseInteger.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... interview_test"
-	@echo "... LC0006_ZigZagConversion.o"
-	@echo "... LC0006_ZigZagConversion.i"
-	@echo "... LC0006_ZigZagConversion.s"
+	@echo "... LC0007_ReverseInteger.o"
+	@echo "... LC0007_ReverseInteger.i"
+	@echo "... LC0007_ReverseInteger.s"
 .PHONY : help
 
 

@@ -3,4 +3,4 @@ project(my_leetcode_solutions)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(interview_test LC0006_ZigZagConversion.cpp)
+add_executable(interview_test LC0007_ReverseInteger.cpp)

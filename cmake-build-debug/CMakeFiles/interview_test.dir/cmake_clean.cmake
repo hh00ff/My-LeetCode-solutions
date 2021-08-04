@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/interview_test.dir/LC0006_ZigZagConversion.cpp.o"
+  "CMakeFiles/interview_test.dir/LC0007_ReverseInteger.cpp.o"
   "interview_test"
   "interview_test.pdb"
 )
