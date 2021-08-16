@@ -62,6 +62,12 @@ public:
         check("Test 1", input1, expected);
     }
 
+    void test2() {
+        std::string input1("   +-42");
+        int expected(0);
+        check("Test 2", input1, expected);
+    }
+
 private:
     void check(const char* testname, std::string& input1, const int& expected) {
         bool tst_pass = true;
@@ -84,9 +90,6 @@ private:
 int main(int argc, char** argv) {
     Test tst = Test();
     tst.test1();
+    tst.test2();
     return 0;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 20004f1791f32705d7aea711649b1d5c288a4b5e
